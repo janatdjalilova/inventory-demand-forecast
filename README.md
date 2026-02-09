@@ -40,4 +40,61 @@ Based on predicted demand, classical inventory metrics are calculated.
 ## ⚙️ ML & Inventory Pipeline
 1. Data cleaning and preprocessing
 2. Feature engineering
-3
+3. Model training:
+   - RandomForestClassifier (popularity)
+   - RandomForestRegressor (demand)
+4. Model evaluation and threshold tuning (F1-score)
+5. Demand estimation
+6. Inventory calculations:
+   - daily demand
+   - safety stock
+   - reorder point
+   - annual demand
+   - inventory turnover (proxy)
+7. Interactive dashboard for SKU and portfolio analysis
+
+## 📈 Inventory Metrics Used
+- **Daily demand**
+- **Safety stock**
+- **Reorder point**
+- **Annual demand**
+- **Inventory turnover**
+
+All metrics are configurable using business assumptions such as lead time, service level and demand variability.
+
+## 📊 Application Features
+- Single SKU analysis
+- Portfolio-level dashboard
+- Brand, price and rating filters
+- Downloadable inventory table
+- Feature importance visualization
+
+## 📂 Project Structure
+inventory-demand-forecast/
+│
+├── notebooks/
+│ └── Kaspi_Inventory_Project.ipynb
+├── app.py
+├── data/
+│ └── kaspi_coffee_raw.csv
+├── requirements.txt
+└── README.md
+
+
+## 🚀 How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+📌 Key Insights
+
+Product price and brand strongly influence demand
+
+A small subset of SKUs generates most of the expected demand
+
+Safety stock helps reduce stockout risk for high-variability products
+
+👩‍💻 Author
+
+Zhanat Jalilova
+Data Science Project
