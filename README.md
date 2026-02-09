@@ -39,19 +39,14 @@ Based on predicted demand, classical inventory metrics are calculated.
 
 ## ⚙️ ML & Inventory Pipeline
 1. Data cleaning and preprocessing
-2. Feature engineering
-3. Model training:
-   - RandomForestClassifier (popularity)
-   - RandomForestRegressor (demand)
-4. Model evaluation and threshold tuning (F1-score)
-5. Demand estimation
-6. Inventory calculations:
-   - daily demand
-   - safety stock
-   - reorder point
-   - annual demand
-   - inventory turnover (proxy)
-7. Interactive dashboard for SKU and portfolio analysis
+2. Exploratory Data Analysis (EDA)
+3. Feature engineering
+4. Model training (classification + regression)
+5. Threshold tuning (F1-score)
+6. Demand estimation (proxy via predicted reviews)
+7. Inventory calculations (safety stock, reorder point, turnover)
+8. Streamlit dashboard (SKU + portfolio views)
+
 
 ## 📈 Inventory Metrics Used
 - **Daily demand**
