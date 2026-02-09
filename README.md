@@ -70,23 +70,23 @@ All metrics are configurable using business assumptions such as lead time, servi
 - Feature importance visualization
 
 ## 📂 Project Structure
+```text
 inventory-demand-forecast/
-│
 ├── notebooks/
-│ └── Kaspi_Inventory_Project.ipynb
-├── app.py
+│   └── Kaspi_Inventory_Project.ipynb
+├── app/
+│   └── app.py
 ├── data/
-│ └── kaspi_coffee_raw.csv
+│   └── kaspi_coffee_raw.csv
 ├── requirements.txt
 └── README.md
-
 
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-📌 Key Insights
+## 🔍 Key Insights
 
 Product price and brand strongly influence demand
 
@@ -94,7 +94,9 @@ A small subset of SKUs generates most of the expected demand
 
 Safety stock helps reduce stockout risk for high-variability products
 
-👩‍💻 Author
+## 👩‍💻 Author
+Zhanat Jalilova
+
 
 Zhanat Jalilova
 Data Science Project
