@@ -80,15 +80,23 @@ inventory-demand-forecast/
 └─ README.md
 
 ## 🚀 How to Run
+
 pip install -r requirements.txt
 streamlit run app.py
 
-```md
 ## 🔍 Key Insights
 
 - Product price and brand strongly influence demand
 - A small subset of SKUs generates most of the expected demand
 - Safety stock helps reduce stockout risk for high-variability products
- 
+
+## 💼 Business Impact
+
+This solution can be used by marketplace sellers to:
+- reduce lost sales caused by stockouts
+- lower holding costs by avoiding overstock
+- focus working capital on high-demand SKUs
+
+
 ## 👩‍💻 Author
 Zhanat Jalilova
