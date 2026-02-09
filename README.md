@@ -66,10 +66,9 @@ All metrics are configurable using business assumptions such as lead time, servi
 ## 📂 Project Structure
 ```text
 inventory-demand-forecast/
-├─ app/
-│  └─ app.py
 ├─ notebooks/
 │  └─ Kaspi_Inventory_Project.ipynb
+├─ app.py
 ├─ data/
 │  ├─ kaspi_coffee_raw.csv
 │  └─ kaspi_coffee_cleaned.csv
@@ -79,16 +78,11 @@ inventory-demand-forecast/
 ├─ requirements.txt
 └─ README.md
 
+```md
 ## 🚀 How to Run
-
+```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-## 🔍 Key Insights
-
-- Product price and brand strongly influence demand
-- A small subset of SKUs generates most of the expected demand
-- Safety stock helps reduce stockout risk for high-variability products
 
 ## 💼 Business Impact
 
@@ -97,6 +91,11 @@ This solution can be used by marketplace sellers to:
 - lower holding costs by avoiding overstock
 - focus working capital on high-demand SKUs
 
+```md
+## 🔍 Key Insights
+- Product price and brand strongly influence demand
+- A small subset of SKUs generates most of the expected demand
+- Safety stock helps reduce stockout risk for high-variability products
 
 ## 👩‍💻 Author
 Zhanat Jalilova
