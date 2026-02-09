@@ -1,7 +1,7 @@
 # Inventory Demand Forecasting (Kaspi Coffee)
 
 ## 📌 Project Overview
-This project focuses on demand forecasting and inventory optimization for coffee products sold on Kaspi marketplace.  
+This project focuses on demand forecasting and inventory optimization for coffee products sold on the Kaspi marketplace.  
 Machine learning models are used to predict product popularity and expected demand, which are then translated into inventory metrics such as safety stock and reorder point.
 
 ## 🎯 Business Problem
@@ -38,15 +38,14 @@ Based on predicted demand, classical inventory metrics are calculated.
 - Streamlit (interactive dashboard)
 
 ## ⚙️ ML & Inventory Pipeline
-1. Data cleaning and preprocessing
-2. Exploratory Data Analysis (EDA)
-3. Feature engineering
-4. Model training (classification + regression)
-5. Threshold tuning (F1-score)
-6. Demand estimation (proxy via predicted reviews)
-7. Inventory calculations (safety stock, reorder point, turnover)
+1. Data cleaning and preprocessing  
+2. Exploratory Data Analysis (EDA)  
+3. Feature engineering  
+4. Model training (classification + regression)  
+5. Threshold tuning (F1-score)  
+6. Demand estimation (proxy via predicted reviews)  
+7. Inventory calculations (safety stock, reorder point, turnover)  
 8. Streamlit dashboard (SKU + portfolio views)
-
 
 ## 📈 Inventory Metrics Used
 - **Daily demand**
@@ -79,20 +78,3 @@ inventory-demand-forecast/
 │  └─ model_reviews_rf.pkl
 ├─ requirements.txt
 └─ README.md
-
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
-
-3. Сделай заголовки:
-
-```md
-## 🔍 Key Insights
-- Product price and brand strongly influence demand
-- A small subset of SKUs generates most of the expected demand
-- Safety stock helps reduce stockout risk for high-variability products
-
-## 👩‍💻 Author
-Zhanat Jalilova
