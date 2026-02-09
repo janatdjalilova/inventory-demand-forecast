@@ -1,0 +1,835 @@
+product_id,name,price,rating,reviews_count,brand,brand_top,pack_size,price_per_100g,price_per_g,price_rating,rating_pack,log_reviews,brand_Carte,brand_Jacobs,brand_Lavazza,brand_MacCoffee,brand_NESCAFE,brand_Other,brand_Tchibo
+105058953,Кофе растворимый MacCoffee coffee mix порошковый 20 г,89.0,5.0,72.0,MacCoffee,MacCoffee,20.0,445.0,4.45,445.0,100.0,4.290459441148391,False,False,False,True,False,False,False
+100240109,Кофе растворимый MacCoffee Cappuccino Di Torino гранулированный 25 г,150.0,4.9,98.0,MacCoffee,MacCoffee,25.0,600.0,6.0,735.0,122.50000000000001,4.59511985013459,False,False,False,True,False,False,False
+100208035,Кофе растворимый NESCAFE Gold сублимированный 95 г,2099.0,4.9,58.0,NESCAFE,NESCAFE,95.0,2209.4736842105262,22.094736842105263,10285.1,465.50000000000006,4.07753744390572,False,False,False,False,True,False,False
+100240184,Кофе растворимый MacCoffee 3 в 1 Карамель порошковый 18 г,79.0,4.9,26.0,MacCoffee,MacCoffee,18.0,438.8888888888889,4.388888888888889,387.1,88.2,3.295836866004329,False,False,False,True,False,False,False
+100207925,Кофе растворимый Jacobs Monarch сублимированный 95 г,3245.0,5.0,77.0,Jacobs,Jacobs,95.0,3415.7894736842104,34.1578947368421,16225.0,475.0,4.356708826689592,False,True,False,False,False,False,False
+100207915,Кофе растворимый Jacobs Monarch сублимированный 47.5 г,1725.0,4.9,31.0,Jacobs,Jacobs,5.0,34500.0,345.0,8452.5,24.5,3.4657359027997265,False,True,False,False,False,False,False
+100207923,Кофе растворимый Jacobs Monarch сублимированный 75 г,2509.0,4.9,37.0,Jacobs,Jacobs,75.0,3345.3333333333335,33.45333333333333,12294.1,367.5,3.6375861597263857,False,True,False,False,False,False,False
+101137420,Кофе растворимый Jacobs Latte Caramel порошковый 12.3 г,116.0,4.9,23.0,Jacobs,Jacobs,3.0,3866.6666666666665,38.666666666666664,568.4000000000001,14.700000000000001,3.1780538303479458,False,True,False,False,False,False,False
+102061752,Кофе растворимый Jacobs Monarch карамель гранулированный 95 г,3129.0,4.8,147.0,Jacobs,Jacobs,95.0,3293.684210526316,32.93684210526316,15019.199999999999,456.0,4.997212273764115,False,True,False,False,False,False,False
+100798824,Кофе растворимый Jacobs Monarch Классический сублимированный 500 г,9252.0,5.0,234.0,Jacobs,Jacobs,500.0,1850.4,18.504,46260.0,2500.0,5.459585514144159,False,True,False,False,False,False,False
+108035328,Кофе растворимый MacCoffee со вкусом сгущенного молока порошковый 20 г,99.0,4.8,27.0,MacCoffee,MacCoffee,20.0,495.0,4.95,475.2,96.0,3.332204510175204,False,False,False,True,False,False,False
+105073722,Кофе растворимый MacCoffee Лесной орех порошковый 18 г,79.0,4.8,22.0,MacCoffee,MacCoffee,18.0,438.8888888888889,4.388888888888889,379.2,86.39999999999999,3.1354942159291497,False,False,False,True,False,False,False
+100938397,Кофе Espresso Italiano Belissimo зерновой в пакете 200 г,2499.0,5.0,179.0,Other,Other,200.0,1249.5,12.495,12495.0,1000.0,5.19295685089021,False,False,False,False,False,True,False
+100760635,Кофе Lavazza Qualita Rossa зерновой 250 г,3665.0,4.8,77.0,Lavazza,Lavazza,250.0,1466.0,14.66,17592.0,1200.0,4.356708826689592,False,False,True,False,False,False,False
+109809031,Кофе Master Coffee Crema Classico зерновой 1000 г,12990.0,4.9,165.0,Other,Other,1000.0,1299.0,12.99,63651.00000000001,4900.0,5.111987788356544,False,False,False,False,False,True,False
+105339313,Кофе Jacobs Barista Editions Italiano зерновой 800 г,11791.0,4.8,19.0,Jacobs,Jacobs,800.0,1473.875,14.73875,56596.799999999996,3840.0,2.995732273553991,False,True,False,False,False,False,False
+101227591,Кофе Coffeelogia Бразилия Сантос зерновой 1000 г,12850.0,4.9,174.0,Other,Other,1000.0,1285.0,12.85,62965.00000000001,4900.0,5.1647859739235145,False,False,False,False,False,True,False
+102268987,Кофе растворимый Jacobs 3 в 1 соленая карамель порошковый 21.3 г,266.0,5.0,0.0,Jacobs,Jacobs,3.0,8866.666666666668,88.66666666666667,1330.0,15.0,0.0,False,True,False,False,False,False,False
+110083236,Кофе Jardin PIAZZA DEL CAFFE ARABICA DENSA зерновой 1000 г,15241.0,4.9,10.0,Other,Other,1000.0,1524.1,15.241,74680.90000000001,4900.0,2.3978952727983707,False,False,False,False,False,True,False
+100820239,Кофе Master Coffee Qazaq Blend зерновой в пакете 1000 г,14990.0,5.0,224.0,Other,Other,1000.0,1499.0,14.99,74950.0,5000.0,5.41610040220442,False,False,False,False,False,True,False
+102120369,Кофе Master Coffee Бразилия Можиана зерновой 1000 г,14990.0,5.0,173.0,Other,Other,1000.0,1499.0,14.99,74950.0,5000.0,5.159055299214529,False,False,False,False,False,True,False
+129365267,Кофе Jacobs Crema Gold зерновой 500 г,7609.0,5.0,7.0,Jacobs,Jacobs,500.0,1521.8,15.218,38045.0,2500.0,2.0794415416798357,False,True,False,False,False,False,False
+108365555,Кофе растворимый Jacobs Monarch гранулированный 130 г,4377.0,5.0,16.0,Jacobs,Jacobs,130.0,3366.923076923077,33.66923076923077,21885.0,650.0,2.833213344056216,False,True,False,False,False,False,False
+100219163,Кофе Lavazza Qualita Oro зерновой в пакете 250 г,4395.0,4.7,91.0,Lavazza,Lavazza,250.0,1757.9999999999998,17.58,20656.5,1175.0,4.5217885770490405,False,False,True,False,False,False,False
+109734601,Кофе Compass Ethiopia blend зерновой 1000 г,11300.0,4.9,117.0,Other,Other,1000.0,1130.0,11.3,55370.00000000001,4900.0,4.770684624465665,False,False,False,False,False,True,False
+108361175,Кофе Lavazza Crema e Gusto зерновой 1000 г,13303.0,4.9,42.0,Lavazza,Lavazza,1000.0,1330.3000000000002,13.303,65184.700000000004,4900.0,3.7612001156935624,False,False,True,False,False,False,False
+108361046,Кофе Gourmet Arabica Brazil Mogiana зерновой 2000 г,21198.0,5.0,190.0,Other,Other,2000.0,1059.9,10.599,105990.0,10000.0,5.25227342804663,False,False,False,False,False,True,False
+141427559,Кофе Master Coffee Basic Blend зерновой 1000 г,11990.0,5.0,70.0,Other,Other,1000.0,1199.0,11.99,59950.0,5000.0,4.2626798770413155,False,False,False,False,False,True,False
+100236001,Кофе Жокей Классический зерновой в пакете 500 г,7072.0,4.9,20.0,Other,Other,500.0,1414.4,14.144,34652.8,2450.0,3.044522437723423,False,False,False,False,False,True,False
+100938514,Кофе Espresso Italiano Original зерновой в пакете 200 г,2499.0,5.0,133.0,Other,Other,200.0,1249.5,12.495,12495.0,1000.0,4.897839799950911,False,False,False,False,False,True,False
+102269678,Кофе Jacobs Barista Editions Crema зерновой в пакете 230 г,3691.0,4.6,19.0,Jacobs,Jacobs,230.0,1604.7826086956522,16.047826086956523,16978.6,1058.0,2.995732273553991,False,True,False,False,False,False,False
+110146304,Кофе Compass Бразилия бленд зерновой 1000 г,10500.0,4.9,115.0,Other,Other,1000.0,1050.0,10.5,51450.00000000001,4900.0,4.7535901911063645,False,False,False,False,False,True,False
+115606264,Кофе Local coffee Бразилия зерновой 1000 г,12000.0,4.9,51.0,Other,Other,1000.0,1200.0,12.0,58800.00000000001,4900.0,3.9512437185814275,False,False,False,False,False,True,False
+116618043,Кофе Master Coffee Бразилия Можиана зерновой 250 г,4290.0,4.9,115.0,Other,Other,250.0,1716.0,17.16,21021.0,1225.0,4.7535901911063645,False,False,False,False,False,True,False
+102331460,Кофе Lavazza Gusto Pieno зерновой 1000 г,11760.0,4.8,184.0,Lavazza,Lavazza,1000.0,1176.0,11.76,56448.0,4800.0,5.220355825078324,False,False,True,False,False,False,False
+101891998,Кофе Lavazza Crema e Aroma Espresso зерновой в пакете 1000 г,15992.0,4.7,147.0,Lavazza,Lavazza,1000.0,1599.2,15.992,75162.40000000001,4700.0,4.997212273764115,False,False,True,False,False,False,False
+100219007,Кофе Jardin Cafe Eclair зерновой в пакете 250 г,3465.0,4.5,10.0,Other,Other,250.0,1386.0,13.86,15592.5,1125.0,2.3978952727983707,False,False,False,False,False,True,False
+100938360,Кофе Espresso Italiano Classic зерновой 1000 г,11999.0,5.0,126.0,Other,Other,1000.0,1199.9,11.999,59995.0,5000.0,4.844187086458591,False,False,False,False,False,True,False
+109734643,Кофе Master Coffee Milano Espresso зерновой 250 г,3690.0,4.9,67.0,Other,Other,250.0,1476.0,14.76,18081.0,1225.0,4.219507705176107,False,False,False,False,False,True,False
+100938535,Кофе Espresso Italiano Classic зерновой в пакете 200 г,2499.0,4.9,88.0,Other,Other,200.0,1249.5,12.495,12245.1,980.0000000000001,4.48863636973214,False,False,False,False,False,True,False
+101227011,Кофе Lavazza Super Crema зерновой в пакете 1000 г,15500.0,4.9,142.0,Lavazza,Lavazza,1000.0,1550.0,15.5,75950.0,4900.0,4.962844630259907,False,False,True,False,False,False,False
+100938384,Кофе Espresso Italiano Belissimo зерновой 1000 г,11999.0,5.0,77.0,Other,Other,1000.0,1199.9,11.999,59995.0,5000.0,4.356708826689592,False,False,False,False,False,True,False
+100774248,Кофе Lavazza Caffe Espresso в пакете зерновой 1000 г,16500.0,5.0,41.0,Lavazza,Lavazza,1000.0,1650.0,16.5,82500.0,5000.0,3.7376696182833684,False,False,True,False,False,False,False
+100761099,Кофе EGOISTE Noir в пакете зерновой 1000 г,21525.0,4.8,27.0,Other,Other,1000.0,2152.5,21.525,103320.0,4800.0,3.332204510175204,False,False,False,False,False,True,False
+100235615,Кофе Жокей Традиционный в Зернах 200 г,3495.0,4.9,15.0,Other,Other,200.0,1747.5000000000002,17.475,17125.5,980.0000000000001,2.772588722239781,False,False,False,False,False,True,False
+114134281,Кофе растворимый Jacobs Caramel сублимированный 3 шт,7788.0,5.0,207.0,Jacobs,Jacobs,500.0,1557.6000000000001,15.576,38940.0,2500.0,5.337538079701318,False,True,False,False,False,False,False
+139473980,Кофе растворимый Coffeelogia Brazil сублимированный 500 г,8600.0,4.9,57.0,Other,Other,500.0,1720.0,17.2,42140.0,2450.0,4.060443010546419,False,False,False,False,False,True,False
+100820202,Кофе Master Coffee Supremo зерновой в пакете 1000 г,15990.0,4.9,126.0,Other,Other,1000.0,1599.0,15.99,78351.0,4900.0,4.844187086458591,False,False,False,False,False,True,False
+131476233,Кофе Master Coffee Qazaq Blend зерновой 250 г,4290.0,5.0,58.0,Other,Other,250.0,1716.0,17.16,21450.0,1250.0,4.07753744390572,False,False,False,False,False,True,False
+100208012,Кофе растворимый NESCAFE Gold гранулированный 190 г,5990.0,5.0,12.0,NESCAFE,NESCAFE,190.0,3152.6315789473683,31.526315789473685,29950.0,950.0,2.5649493574615367,False,False,False,False,True,False,False
+100977495,Кофе растворимый Carte Noire Original сублимированный 150 г,7350.0,4.9,59.0,Carte,Carte,150.0,4900.0,49.0,36015.0,735.0,4.0943445622221,True,False,False,False,False,False,False
+109734587,Кофе Compass Colombia Blend зерновой 1000 г,11000.0,5.0,65.0,Other,Other,1000.0,1100.0,11.0,55000.0,5000.0,4.189654742026425,False,False,False,False,False,True,False
+140804775,Кофе Master Coffee Гватемала Декаф зерновой 250 г,5190.0,5.0,26.0,Other,Other,250.0,2076.0,20.76,25950.0,1250.0,3.295836866004329,False,False,False,False,False,True,False
+109734655,Кофе Master Coffee Prestige зерновой 250 г,4590.0,4.9,67.0,Other,Other,250.0,1836.0,18.36,22491.0,1225.0,4.219507705176107,False,False,False,False,False,True,False
+130582435,Кофе Serikov Coffee Сан Рафаэль зерновой 200 г,3400.0,4.8,17.0,Other,Other,200.0,1700.0,17.0,16320.0,960.0,2.8903717578961645,False,False,False,False,False,True,False
+145116643,Кофе Delonghi Ethiopian Selection зерновой 250 г,5590.0,5.0,23.0,Other,Other,250.0,2236.0,22.36,27950.0,1250.0,3.1780538303479458,False,False,False,False,False,True,False
+145868996,Кофе Delonghi Espresso Selection зерновой 250 г,5090.0,4.9,25.0,Other,Other,250.0,2036.0,20.36,24941.0,1225.0,3.258096538021482,False,False,False,False,False,True,False
+105921931,Кофе Green Roast Арабика Бразилия зерновой в пакете 1000 г,11700.0,4.9,120.0,Other,Other,1000.0,1170.0,11.7,57330.00000000001,4900.0,4.795790545596741,False,False,False,False,False,True,False
+101405160,Кофе Delonghi Caffe Crema зерновой в пакете 250 г,4990.0,5.0,38.0,Other,Other,250.0,1996.0,19.96,24950.0,1250.0,3.6635616461296463,False,False,False,False,False,True,False
+101227574,Кофе Coffeelogia Бразилия Сантос зерновой 500 г,7400.0,4.9,95.0,Other,Other,500.0,1480.0,14.8,36260.0,2450.0,4.564348191467836,False,False,False,False,False,True,False
+104574059,Кофе Green Roast 80/20 зерновой в пакете 1000 г,11500.0,5.0,52.0,Other,Other,1000.0,1150.0,11.5,57500.0,5000.0,3.970291913552122,False,False,False,False,False,True,False
+130582414,Кофе Serikov Coffee Almaty Blend зерновой 200 г,3201.0,4.8,8.0,Other,Other,200.0,1600.5,16.005,15364.8,960.0,2.1972245773362196,False,False,False,False,False,True,False
+103560890,Кофе Grossa Rufa зерновой 1000 г,10800.0,4.9,81.0,Other,Other,1000.0,1080.0,10.8,52920.00000000001,4900.0,4.406719247264253,False,False,False,False,False,True,False
+103315586,Кофе Delonghi Decaffeinato Espresso зерновой в пакете 500 г,7990.0,4.9,63.0,Other,Other,500.0,1598.0,15.98,39151.0,2450.0,4.1588830833596715,False,False,False,False,False,True,False
+100825846,Кофе Lavazza Qualita Rossa зерновой в пакете 1000 г,16750.0,4.8,60.0,Lavazza,Lavazza,1000.0,1675.0,16.75,80400.0,4800.0,4.110873864173311,False,False,True,False,False,False,False
+101765851,Кофе EGOISTE Truffle зерновой в пакете 1000 г,20409.0,5.0,16.0,Other,Other,1000.0,2040.8999999999999,20.409,102045.0,5000.0,2.833213344056216,False,False,False,False,False,True,False
+140012074,Кофе GLOBAL COFFEE Espresso Blend зерновой 1000 г,12950.0,5.0,67.0,Other,Other,1000.0,1295.0,12.95,64750.0,5000.0,4.219507705176107,False,False,False,False,False,True,False
+107265385,Кофе Coffeelogia Бразилия Сантос Венская обжарка зерновой 1000 г,12900.0,4.9,43.0,Other,Other,1000.0,1290.0,12.9,63210.00000000001,4900.0,3.784189633918261,False,False,False,False,False,True,False
+105085638,Кофе Grossa Ethiopia Sidamo 4 Gr зерновой 1000 г,11300.0,4.9,32.0,Other,Other,4.0,282500.0,2825.0,55370.00000000001,19.6,3.4965075614664802,False,False,False,False,False,True,False
+101169717,Кофе Caffe Boasi Caffe Boasi Super Crema Caffe зерновой 1000 г,13503.0,4.9,80.0,Other,Other,1000.0,1350.3,13.503,66164.70000000001,4900.0,4.394449154672439,False,False,False,False,False,True,False
+104574351,Кофе Green Roast 80/20 зерновой в пакете 250 г,3100.0,4.9,97.0,Other,Other,250.0,1240.0,12.4,15190.000000000002,1225.0,4.584967478670572,False,False,False,False,False,True,False
+105921876,Кофе Green Roast 80/20 зерновой в пакете 500 г,5900.0,4.9,34.0,Other,Other,500.0,1180.0,11.8,28910.000000000004,2450.0,3.5553480614894135,False,False,False,False,False,True,False
+102141856,Кофе Master Coffee Колумбия Супремо Антьокия зерновой в пакете 1000 г,15990.0,5.0,47.0,Other,Other,1000.0,1599.0,15.99,79950.0,5000.0,3.871201010907891,False,False,False,False,False,True,False
+101152293,Кофе Bushido Red Katana зерновой в пакете 1000 г,19416.0,4.6,24.0,Bushido,Bushido,1000.0,1941.6000000000001,19.416,89313.59999999999,4600.0,3.2188758248682006,False,False,False,False,False,False,False
+102930039,Кофе Guten berg зерновой Ирландские сливки 1 кг,18150.0,4.9,45.0,Other,Other,500.0,3629.9999999999995,36.3,88935.0,2450.0,3.828641396489095,False,False,False,False,False,True,False
+130582399,Кофе Serikov Coffee Serikov Blend зерновой 200 г,3850.0,4.8,23.0,Other,Other,200.0,1925.0,19.25,18480.0,960.0,3.1780538303479458,False,False,False,False,False,True,False
+102719723,Кофе Jardin Americano Crema зерновой в пакете 1000 г,15600.0,4.8,12.0,Other,Other,1000.0,1560.0,15.6,74880.0,4800.0,2.5649493574615367,False,False,False,False,False,True,False
+100208037,Кофе растворимый NESCAFE Classic порошковый 500 г,8640.0,5.0,28.0,NESCAFE,NESCAFE,500.0,1728.0,17.28,43200.0,2500.0,3.367295829986474,False,False,False,False,True,False,False
+109576662,Кофе Gourmet Oro зерновой 2000 г,21998.0,5.0,83.0,Other,Other,2000.0,1099.9,10.999,109990.0,10000.0,4.430816798843313,False,False,False,False,False,True,False
+145116635,Кофе Delonghi Apple Selection зерновой 250 г,5590.0,4.8,10.0,Other,Other,250.0,2236.0,22.36,26832.0,1200.0,2.3978952727983707,False,False,False,False,False,True,False
+104496841,Кофе Green Roast Эспресо зерновой 1 кг,11500.0,4.9,32.0,Other,Other,500.0,2300.0,23.0,56350.00000000001,2450.0,3.4965075614664802,False,False,False,False,False,True,False
+101141240,Кофе Lavazza Tierra зерновой 1000 г,17500.0,4.8,68.0,Lavazza,Lavazza,1000.0,1750.0,17.5,84000.0,4800.0,4.23410650459726,False,False,True,False,False,False,False
+107970871,"Кофе Carte Noire Original, Crema Delice зерновой 2 упаковки по 230 г",7438.0,4.9,25.0,Carte,Carte,230.0,3233.913043478261,32.33913043478261,36446.200000000004,1127.0,3.258096538021482,True,False,False,False,False,False,False
+121225803,Кофе Local coffee Brazil Arabica зерновой 250 г,3600.0,4.8,19.0,Other,Other,250.0,1440.0,14.4,17280.0,1200.0,2.995732273553991,False,False,False,False,False,True,False
+139276428,Кофе Serikov Coffee Бразилия Сан Рафаэль зерновой 1000 г,15000.0,4.9,8.0,Other,Other,1000.0,1500.0,15.0,73500.0,4900.0,2.1972245773362196,False,False,False,False,False,True,False
+141881361,Кофе Master Coffee Milk Blend зерновой 250 г,3990.0,4.9,10.0,Other,Other,250.0,1596.0,15.96,19551.0,1225.0,2.3978952727983707,False,False,False,False,False,True,False
+117513268,Кофе TOREO Crema Intenso зерновой 1000 г,11130.0,5.0,20.0,Other,Other,1000.0,1113.0,11.13,55650.0,5000.0,3.044522437723423,False,False,False,False,False,True,False
+102533537,Кофе Lavazza Crema Ricca зерновой в пакете 1000 г,13780.0,5.0,25.0,Lavazza,Lavazza,1000.0,1378.0,13.78,68900.0,5000.0,3.258096538021482,False,False,True,False,False,False,False
+103695296,Кофе Carte Noire Exclusif зерновой арабика 1000 г,14774.0,4.9,17.0,Carte,Carte,1000.0,1477.3999999999999,14.774,72392.6,4900.0,2.8903717578961645,True,False,False,False,False,False,False
+102141872,Кофе Master Coffee Эфиопия Сидамо Гуджи зерновой в пакете 1000 г,15990.0,4.8,52.0,Other,Other,1000.0,1599.0,15.99,76752.0,4800.0,3.970291913552122,False,False,False,False,False,True,False
+101141592,Кофе Bushido Black Katana зерновой в пакете 1000 г,22010.0,4.8,21.0,Bushido,Bushido,1000.0,2201.0,22.01,105648.0,4800.0,3.091042453358316,False,False,False,False,False,False,False
+102928947,Кофе Guten berg зерновой Ирландские сливки 250 г,5275.0,4.8,21.0,Other,Other,250.0,2110.0,21.1,25320.0,1200.0,3.091042453358316,False,False,False,False,False,True,False
+107970837,"Кофе Jacobs Barista Editions Crema, Italiano зерновой 2 упаковки по 800 г",19128.0,4.9,22.0,Jacobs,Jacobs,800.0,2391.0,23.91,93727.20000000001,3920.0000000000005,3.1354942159291497,False,True,False,False,False,False,False
+115672323,Кофе Local coffee Arabica blend зерновой 1000 г,13500.0,5.0,9.0,Other,Other,1000.0,1350.0,13.5,67500.0,5000.0,2.302585092994046,False,False,False,False,False,True,False
+102161423,Кофе Movenpick Schumli зерновой 1000 г,18175.0,5.0,20.0,Other,Other,1000.0,1817.5,18.175,90875.0,5000.0,3.044522437723423,False,False,False,False,False,True,False
+139527115,Кофе Serikov Coffee American Blend зерновой 200 г,3800.0,4.9,10.0,Other,Other,200.0,1900.0,19.0,18620.0,980.0000000000001,2.3978952727983707,False,False,False,False,False,True,False
+128636977,Кофе Master Coffee Эфиопия Сидамо Гуджи зерновой 250 г,4590.0,4.8,26.0,Other,Other,250.0,1836.0,18.36,22032.0,1200.0,3.295836866004329,False,False,False,False,False,True,False
+101141438,Кофе Tchibo Barista Caffe Crema зерновой в пакете 1000 г,15800.0,5.0,31.0,Tchibo,Tchibo,1000.0,1580.0,15.8,79000.0,5000.0,3.4657359027997265,False,False,False,False,False,False,True
+100207926,Кофе растворимый Jacobs Monarch сублимированный 400 г,7499.0,5.0,469.0,Jacobs,Jacobs,400.0,1874.7499999999998,18.7475,37495.0,2000.0,6.152732694704104,False,True,False,False,False,False,False
+100238984,Кофе растворимый Jacobs Original 3 в 1 порошковый 12 г,95.0,4.9,28.0,Jacobs,Jacobs,12.0,791.6666666666667,7.916666666666667,465.50000000000006,58.800000000000004,3.367295829986474,False,True,False,False,False,False,False
+100976420,Кофе растворимый Carte Noire Original сублимированный 95 г,5114.0,4.9,91.0,Carte,Carte,95.0,5383.157894736842,53.83157894736842,25058.600000000002,465.50000000000006,4.5217885770490405,True,False,False,False,False,False,False
+102151087,Кофе растворимый NESCAFE 3 в 1 саше порошковый 14.5 г,89.0,4.9,20.0,NESCAFE,NESCAFE,5.0,1780.0,17.8,436.1,24.5,3.044522437723423,False,False,False,False,True,False,False
+104840733,Кофе растворимый NESCAFE ЗОЛОТАЯ ОБЖАРКА сублимированный 320 г,11038.0,4.9,75.0,NESCAFE,NESCAFE,320.0,3449.375,34.49375,54086.200000000004,1568.0,4.330733340286331,False,False,False,False,True,False,False
+147033969,Кофе растворимый Jacobs Dubai Chocolate Style порошковый 19.5 г,179.0,4.6,6.0,Jacobs,Jacobs,5.0,3579.9999999999995,35.8,823.4,23.0,1.9459101490553132,False,True,False,False,False,False,False
+102132541,Кофе растворимый Jacobs Cappuccino 3 в 1 порошковый 12.5 г,116.0,4.8,17.0,Jacobs,Jacobs,5.0,2320.0,23.2,556.8,24.0,2.8903717578961645,False,True,False,False,False,False,False
+102017907,Кофе растворимый Jacobs Gold сублимированный 95 г,2099.0,4.9,38.0,Jacobs,Jacobs,95.0,2209.4736842105262,22.094736842105263,10285.1,465.50000000000006,3.6635616461296463,False,True,False,False,False,False,False
+100208014,Кофе растворимый NESCAFE Classic Crema порошковый 95 г,1995.0,4.9,58.0,NESCAFE,NESCAFE,95.0,2100.0,21.0,9775.5,465.50000000000006,4.07753744390572,False,False,False,False,True,False,False
+105120652,Кофе растворимый Beta Caffito Original порошковый 25 шт по 20 г,1599.0,4.9,29.0,Other,Other,20.0,7995.0,79.95,7835.1,98.0,3.4011973816621555,False,False,False,False,False,True,False
+103434591,Кофе растворимый MacCoffee Latte al caramello порошковый 22 г,125.0,4.8,26.0,MacCoffee,MacCoffee,22.0,568.1818181818181,5.681818181818182,600.0,105.6,3.295836866004329,False,False,False,True,False,False,False
+129338676,Кофе растворимый NESCAFE Gold Crema порошковый 85 г,2099.0,4.8,27.0,NESCAFE,NESCAFE,85.0,2469.4117647058824,24.694117647058825,10075.199999999999,408.0,3.332204510175204,False,False,False,False,True,False,False
+129872121,Кофе Grossa Brazil Toffee зерновой 1000 г,13500.0,4.9,13.0,Other,Other,1000.0,1350.0,13.5,66150.0,4900.0,2.6390573296152584,False,False,False,False,False,True,False
+120275000,Кофе Massimo Coffee Filadelfia Pink Bourbon зерновой 250 г,15500.0,4.9,10.0,Other,Other,250.0,6200.0,62.0,75950.0,1225.0,2.3978952727983707,False,False,False,False,False,True,False
+109576707,Кофе Gourmet Rosso зерновой 2000 г,21198.0,4.9,197.0,Other,Other,2000.0,1059.9,10.599,103870.20000000001,9800.0,5.288267030694535,False,False,False,False,False,True,False
+106433650,Кофе Lavazza Qualita Oro зерновой 1000 г,15482.0,4.8,51.0,Lavazza,Lavazza,1000.0,1548.1999999999998,15.482,74313.59999999999,4800.0,3.9512437185814275,False,False,True,False,False,False,False
+102009960,Кофе растворимый Jacobs Hazelnut 3 в 1 24 шт порошковый 24 шт 15 г,2798.0,4.9,11.0,Jacobs,Jacobs,15.0,18653.333333333332,186.53333333333333,13710.2,73.5,2.4849066497880004,False,True,False,False,False,False,False
+131136679,Кофе растворимый Jacobs Cappuccino classic порошковый 20 пакетиков,3476.0,5.0,19.0,Jacobs,Jacobs,500.0,695.2,6.952,17380.0,2500.0,2.995732273553991,False,True,False,False,False,False,False
+146534230,Кофе TOREO Vending Special зерновой 500 г,4900.0,5.0,11.0,Other,Other,500.0,980.0000000000001,9.8,24500.0,2500.0,2.4849066497880004,False,False,False,False,False,True,False
+140461177,Кофе Serikov Coffee Moscow Blend зерновой 200 г,3700.0,5.0,4.0,Other,Other,200.0,1850.0,18.5,18500.0,1000.0,1.6094379124341003,False,False,False,False,False,True,False
+106615953,Кофе EGOISTE Cafe Noir зерновой 250 г,5649.0,4.9,18.0,Other,Other,250.0,2259.6,22.596,27680.100000000002,1225.0,2.9444389791664403,False,False,False,False,False,True,False
+121230232,Кофе Local coffee Local's Blend зерновой 250 г,3300.0,5.0,11.0,Other,Other,250.0,1320.0,13.2,16500.0,1250.0,2.4849066497880004,False,False,False,False,False,True,False
+100820363,Кофе Kimbo Gold Arabica зерновой в пакете 1000 г,16972.0,4.9,22.0,Other,Other,1000.0,1697.2,16.972,83162.8,4900.0,3.1354942159291497,False,False,False,False,False,True,False
+115672341,Кофе Local coffee Premium blend зерновой 1000 г,13500.0,5.0,10.0,Other,Other,1000.0,1350.0,13.5,67500.0,5000.0,2.3978952727983707,False,False,False,False,False,True,False
+121241995,Кофе Local coffee Brazil Decaf зерновой 250 г,4500.0,5.0,11.0,Other,Other,250.0,1800.0,18.0,22500.0,1250.0,2.4849066497880004,False,False,False,False,False,True,False
+120375368,Кофе растворимый Maxim Supreme Gold Cofee Mix сублимированный 20 стиков,3850.0,4.9,14.0,Other,Other,500.0,770.0,7.7,18865.0,2450.0,2.70805020110221,False,False,False,False,False,True,False
+103695549,Кофе растворимый Jacobs Monarch 3 в 1 сублимированный 24 шт,2798.0,4.9,36.0,Jacobs,Jacobs,500.0,559.6,5.596,13710.2,2450.0,3.6109179126442243,False,True,False,False,False,False,False
+101141478,Кофе Bushido Sensei зерновой в пакете 227 г,5699.0,4.9,38.0,Bushido,Bushido,227.0,2510.5726872246696,25.105726872246695,27925.100000000002,1112.3000000000002,3.6635616461296463,False,False,False,False,False,False,False
+148515610,Кофе растворимый Здоровье Ячменный гранулированный 75 г,990.0,4.4,9.0,Other,Other,75.0,1320.0,13.2,4356.0,330.0,2.302585092994046,False,False,False,False,False,True,False
+101152307,Кофе Bushido Red Katana зерновой в пакете 227 г,4997.0,4.8,16.0,Bushido,Bushido,227.0,2201.321585903084,22.013215859030836,23985.6,1089.6,2.833213344056216,False,False,False,False,False,False,False
+102903915,Кофе Guten berg Баунти зерновой ароматизированный в пакете 250 г,5275.0,5.0,12.0,Other,Other,250.0,2110.0,21.1,26375.0,1250.0,2.5649493574615367,False,False,False,False,False,True,False
+101169414,Кофе illy Classico зерновой в банке 250 г,8989.0,4.9,21.0,Other,Other,250.0,3595.6000000000004,35.956,44046.100000000006,1225.0,3.091042453358316,False,False,False,False,False,True,False
+100825428,Кофе Lavazza Gran Crema Espresso зерновой в пакете 1000 г,18700.0,4.9,9.0,Lavazza,Lavazza,1000.0,1870.0,18.7,91630.0,4900.0,2.302585092994046,False,False,True,False,False,False,False
+129338649,Кофе растворимый NESCAFE Gold Aroma Intenso сублимированный 170 г,4939.0,5.0,5.0,NESCAFE,NESCAFE,170.0,2905.294117647059,29.05294117647059,24695.0,850.0,1.791759469228055,False,False,False,False,True,False,False
+105074549,Кофе растворимый BUSHIDO KODO сублимированный 95 г,6930.0,4.9,28.0,Bushido,Bushido,95.0,7294.736842105263,72.94736842105263,33957.0,465.50000000000006,3.367295829986474,False,False,False,False,False,False,False
+101468902,Кофе Movenpick Caffe Crema зерновой в пакете 500 г,9886.0,4.9,40.0,Other,Other,500.0,1977.1999999999998,19.772,48441.4,2450.0,3.713572066704308,False,False,False,False,False,True,False
+108061326,Кофе Coffeelogia Бразилия Декаф зерновой 250 г,4850.0,4.6,16.0,Other,Other,250.0,1939.9999999999998,19.4,22310.0,1150.0,2.833213344056216,False,False,False,False,False,True,False
+140751442,Кофе Gutenberg Черри Бренди зерновой 100 г,1900.0,4.9,11.0,Other,Other,100.0,1900.0,19.0,9310.0,490.00000000000006,2.4849066497880004,False,False,False,False,False,True,False
+136075631,Кофе Master Coffee Колумбия Супремо Антьокия зерновой 250 г,4590.0,5.0,20.0,Other,Other,250.0,1836.0,18.36,22950.0,1250.0,3.044522437723423,False,False,False,False,False,True,False
+144710380,Кофе Serikov Coffee Колумбия Уйла зерновой 200 г,3800.0,4.8,5.0,Other,Other,200.0,1900.0,19.0,18240.0,960.0,1.791759469228055,False,False,False,False,False,True,False
+101146680,Кофе растворимый Jacobs Monarch сублимированный 220 г,5918.0,5.0,22.0,Jacobs,Jacobs,220.0,2690.0,26.9,29590.0,1100.0,3.1354942159291497,False,True,False,False,False,False,False
+106711905,Кофе растворимый Jacobs Cappuccino порошковый 24 шт по 12.5 г,2323.0,4.8,9.0,Jacobs,Jacobs,5.0,46460.0,464.6,11150.4,24.0,2.302585092994046,False,True,False,False,False,False,False
+116508879,Кофе растворимый Jacobs Cappuccino порошковый 400 г,3116.0,4.9,16.0,Jacobs,Jacobs,400.0,779.0,7.79,15268.400000000001,1960.0000000000002,2.833213344056216,False,True,False,False,False,False,False
+103140592,Кофе Guten berg Крем Карамель ароматизированный зерновой арабика 250 г,5275.0,4.9,6.0,Other,Other,250.0,2110.0,21.1,25847.500000000004,1225.0,1.9459101490553132,False,False,False,False,False,True,False
+129879101,Кофе Grossa Miranda зерновой 1000 г,10600.0,4.9,10.0,Other,Other,1000.0,1060.0,10.6,51940.00000000001,4900.0,2.3978952727983707,False,False,False,False,False,True,False
+128812277,Кофе Movenpick Der Himmlische зерновой 500 г,8800.0,5.0,7.0,Other,Other,500.0,1760.0000000000002,17.6,44000.0,2500.0,2.0794415416798357,False,False,False,False,False,True,False
+134074333,Кофе Massimo Coffee Isidro El Greco зерновой 250 г,9750.0,4.9,5.0,Other,Other,250.0,3900.0,39.0,47775.0,1225.0,1.791759469228055,False,False,False,False,False,True,False
+102363058,Кофе Lavazza Gold Selection зерновой в пакете 1000 г,16900.0,4.8,25.0,Lavazza,Lavazza,1000.0,1689.9999999999998,16.9,81120.0,4800.0,3.258096538021482,False,False,True,False,False,False,False
+143659832,Кофе Massimo Coffee Ethiopia Aricha зерновой 250 г,9750.0,4.8,4.0,Other,Other,250.0,3900.0,39.0,46800.0,1200.0,1.6094379124341003,False,False,False,False,False,True,False
+101405127,Кофе Delonghi Selezione Espresso зерновой в пакете 250 г,5990.0,4.8,33.0,Other,Other,250.0,2396.0,23.96,28752.0,1200.0,3.5263605246161616,False,False,False,False,False,True,False
+102141881,Кофе Master Coffee Коста-Рика Тарразу Колибри зерновой 1000 г,15990.0,4.9,32.0,Other,Other,1000.0,1599.0,15.99,78351.0,4900.0,3.4965075614664802,False,False,False,False,False,True,False
+105056201,Кофе растворимый EGOISTE Noir сублимированный 100 г,5199.0,4.8,28.0,Other,Other,100.0,5199.0,51.99,24955.2,480.0,3.367295829986474,False,False,False,False,False,True,False
+145116637,Кофе Delonghi Signature Brew зерновой 250 г,5490.0,5.0,11.0,Other,Other,250.0,2196.0,21.96,27450.0,1250.0,2.4849066497880004,False,False,False,False,False,True,False
+117068170,Кофе Kimbo Delonghi Espresso Gourmet зерновой 1000 г,15990.0,4.9,10.0,Other,Other,1000.0,1599.0,15.99,78351.0,4900.0,2.3978952727983707,False,False,False,False,False,True,False
+106711858,Кофе растворимый Jacobs Intense порошковый 24 шт по 12 г,2323.0,4.8,14.0,Jacobs,Jacobs,12.0,19358.333333333336,193.58333333333334,11150.4,57.599999999999994,2.70805020110221,False,True,False,False,False,False,False
+108061334,Кофе Coffeelogia Бразилия Декаф зерновой 1000 г,14900.0,5.0,5.0,Other,Other,1000.0,1490.0,14.9,74500.0,5000.0,1.791759469228055,False,False,False,False,False,True,False
+101152093,Кофе растворимый NESCAFE Classic с молотой арабикой порошковый 1000 г,15500.0,4.8,43.0,NESCAFE,NESCAFE,1000.0,1550.0,15.5,74400.0,4800.0,3.784189633918261,False,False,False,False,True,False,False
+108192783,Кофе Sunday Coffee Crema Бразилия зерновой 250 г,4800.0,4.9,22.0,Other,Other,250.0,1920.0,19.2,23520.0,1225.0,3.1354942159291497,False,False,False,False,False,True,False
+108698874,Кофе Lavazza Top Class зерновой 1000 г,15800.0,4.8,17.0,Lavazza,Lavazza,1000.0,1580.0,15.8,75840.0,4800.0,2.8903717578961645,False,False,True,False,False,False,False
+142097068,Кофе Serikov Coffee Moscow blend зерновой 1000 г,15500.0,5.0,8.0,Other,Other,1000.0,1550.0,15.5,77500.0,5000.0,2.1972245773362196,False,False,False,False,False,True,False
+106727956,Кофе растворимый Jacobs Caramel гранулированный 24 шт по 15 г,2798.0,5.0,11.0,Jacobs,Jacobs,15.0,18653.333333333332,186.53333333333333,13990.0,75.0,2.4849066497880004,False,True,False,False,False,False,False
+106378331,Кофе Coffeelogia Номад Бленд зерновой 1000 г,12450.0,5.0,23.0,Other,Other,1000.0,1245.0,12.45,62250.0,5000.0,3.1780538303479458,False,False,False,False,False,True,False
+132160849,Кофе Grossa Brazil Cerrado зерновой 200 г,3300.0,4.9,11.0,Other,Other,200.0,1650.0,16.5,16170.000000000002,980.0000000000001,2.4849066497880004,False,False,False,False,False,True,False
+140732870,Кофе Gutenberg со вкусом фисташки зерновой 100 г,1900.0,4.6,5.0,Other,Other,100.0,1900.0,19.0,8740.0,459.99999999999994,1.791759469228055,False,False,False,False,False,True,False
+145851322,Кофе Caffe Antico Cremoso зерновой 1000 г,13378.0,5.0,4.0,Other,Other,1000.0,1337.8,13.378,66890.0,5000.0,1.6094379124341003,False,False,False,False,False,True,False
+101227716,Кофе Coffeelogia Вьетнам Далат зерновой 250 г,4350.0,4.6,12.0,Other,Other,250.0,1739.9999999999998,17.4,20010.0,1150.0,2.5649493574615367,False,False,False,False,False,True,False
+106127795,Кофе Green Roast Арабика Колумбия зерновой в пакете 1000 г,15700.0,4.9,24.0,Other,Other,1000.0,1570.0,15.7,76930.0,4900.0,3.2188758248682006,False,False,False,False,False,True,False
+115672288,Кофе Local coffee Brazil Decaf зерновой 1000 г,16000.0,4.9,8.0,Other,Other,1000.0,1600.0,16.0,78400.0,4900.0,2.1972245773362196,False,False,False,False,False,True,False
+141058650,Кофе растворимый NESCAFE Ice порошковый 276 г,2435.0,4.9,4.0,NESCAFE,NESCAFE,276.0,882.2463768115941,8.822463768115941,11931.5,1352.4,1.6094379124341003,False,False,False,False,True,False,False
+110146875,Кофе Lavazza Crema Classica зерновой 1000 г,16389.0,4.9,29.0,Lavazza,Lavazza,1000.0,1638.8999999999999,16.389,80306.1,4900.0,3.4011973816621555,False,False,True,False,False,False,False
+104573699,Кофе Green Roast Бродвей зерновой в пакете 1000 г,12300.0,4.6,12.0,Other,Other,1000.0,1230.0,12.3,56579.99999999999,4600.0,2.5649493574615367,False,False,False,False,False,True,False
+143454521,Кофе Serikov Coffee Кения Матунда зерновой 200 г,4800.0,5.0,5.0,Other,Other,200.0,2400.0,24.0,24000.0,1000.0,1.791759469228055,False,False,False,False,False,True,False
+131136707,Кофе растворимый Jacobs Caramel Latte порошковый 20 пакетиков,3476.0,5.0,16.0,Jacobs,Jacobs,500.0,695.2,6.952,17380.0,2500.0,2.833213344056216,False,True,False,False,False,False,False
+113305288,Кофе Lavazza Qualita Rossa зерновой 2 упаковки по 250 г,7566.0,5.0,20.0,Lavazza,Lavazza,250.0,3026.4,30.264,37830.0,1250.0,3.044522437723423,False,False,True,False,False,False,False
+140751375,Кофе Gutenberg Венские вафли зерновой 100 г,1900.0,4.9,7.0,Other,Other,100.0,1900.0,19.0,9310.0,490.00000000000006,2.0794415416798357,False,False,False,False,False,True,False
+106127747,Кофе Green Roast Арабика Бразилия зерновой в пакете 500 г,7300.0,4.8,74.0,Other,Other,500.0,1460.0,14.6,35040.0,2400.0,4.31748811353631,False,False,False,False,False,True,False
+140751414,Кофе Gutenberg Грильяж зерновой 100 г,1900.0,4.8,5.0,Other,Other,100.0,1900.0,19.0,9120.0,480.0,1.791759469228055,False,False,False,False,False,True,False
+104267855,Кофе Sunday Coffee Presto зерновой арабика/робуста 1000 г,13000.0,4.8,6.0,Other,Other,1000.0,1300.0,13.0,62400.0,4800.0,1.9459101490553132,False,False,False,False,False,True,False
+108933836,Кофе Sunday Coffee Perfecto зерновой 1000 г,13000.0,4.9,9.0,Other,Other,1000.0,1300.0,13.0,63700.00000000001,4900.0,2.302585092994046,False,False,False,False,False,True,False
+104363641,Кофе Gutenberg зерновой с ароматом фисташки 250 г,5275.0,4.9,15.0,Other,Other,250.0,2110.0,21.1,25847.500000000004,1225.0,2.772588722239781,False,False,False,False,False,True,False
+106377671,Кофе Coffeelogia Кения Центральная зерновой 500 г,7900.0,5.0,26.0,Other,Other,500.0,1580.0,15.8,39500.0,2500.0,3.295836866004329,False,False,False,False,False,True,False
+102505916,Кофе Guten Berg Черри бренди зерновой 250 г,5275.0,5.0,14.0,Other,Other,250.0,2110.0,21.1,26375.0,1250.0,2.70805020110221,False,False,False,False,False,True,False
+100825408,Кофе Lavazza Gran Espresso зерновой 1000 г,16800.0,4.6,30.0,Lavazza,Lavazza,1000.0,1680.0,16.8,77280.0,4600.0,3.4339872044851463,False,False,True,False,False,False,False
+129879135,Кофе Grossa Brazil Fenix зерновой 1000 г,11500.0,4.9,6.0,Other,Other,1000.0,1150.0,11.5,56350.00000000001,4900.0,1.9459101490553132,False,False,False,False,False,True,False
+140733148,Кофе Gutenberg арома ваниль зерновой 100 г,1900.0,4.8,1.0,Other,Other,100.0,1900.0,19.0,9120.0,480.0,0.6931471805599453,False,False,False,False,False,True,False
+103829581,Кофе растворимый Jacobs Коллекция кофейных напитков 3в1 сублимированный 1663 г,10433.0,4.9,53.0,Jacobs,Jacobs,1663.0,627.3601924233313,6.273601924233313,51121.700000000004,8148.700000000001,3.9889840465642745,False,True,False,False,False,False,False
+104573732,Кофе Green Roast Бродвей зерновой в пакете 500 г,6500.0,4.9,9.0,Other,Other,500.0,1300.0,13.0,31850.000000000004,2450.0,2.302585092994046,False,False,False,False,False,True,False
+102903950,Кофе Guten berg Вишня на бурбоне зерновой ароматизированный в пакете 250 г,5275.0,5.0,11.0,Other,Other,250.0,2110.0,21.1,26375.0,1250.0,2.4849066497880004,False,False,False,False,False,True,False
+117702328,Кофе растворимый Maxim White Gold сублимированный 20 пакетиков,3700.0,4.9,5.0,Other,Other,500.0,740.0,7.4,18130.0,2450.0,1.791759469228055,False,False,False,False,False,True,False
+108061330,Кофе Coffeelogia Бразилия Декаф зерновой 500 г,8600.0,4.9,8.0,Other,Other,500.0,1720.0,17.2,42140.0,2450.0,2.1972245773362196,False,False,False,False,False,True,False
+106377509,Кофе Coffeelogia Бразилия Сантос Венская обжарка зерновой 500 г,7450.0,4.9,19.0,Other,Other,500.0,1490.0,14.9,36505.0,2450.0,2.995732273553991,False,False,False,False,False,True,False
+121065347,Кофе Caffe Antico Duomo зерновой 1000 г,13996.0,4.9,28.0,Other,Other,1000.0,1399.6000000000001,13.996,68580.40000000001,4900.0,3.367295829986474,False,False,False,False,False,True,False
+101227497,Кофе Coffeelogia Эспрессо Бленд зерновой 500 г,7050.0,4.9,34.0,Other,Other,500.0,1410.0,14.1,34545.0,2450.0,3.5553480614894135,False,False,False,False,False,True,False
+102935565,Кофе Guten berg Баунти зерновой ароматизированный в пакете 1 кг,18190.0,4.8,7.0,Other,Other,500.0,3638.0000000000005,36.38,87312.0,2400.0,2.0794415416798357,False,False,False,False,False,True,False
+144744056,Кофе Serikov Coffee Эфиопия Саломон зерновой 200 г,4200.0,5.0,1.0,Other,Other,200.0,2100.0,21.0,21000.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+133959987,Кофе Delonghi Espresso Classic зерновой 1000 г,19990.0,5.0,17.0,Other,Other,1000.0,1998.9999999999998,19.99,99950.0,5000.0,2.8903717578961645,False,False,False,False,False,True,False
+102930044,Кофе Guten berg зерновой Бейлис ароматизированный в пакете 250 г,5275.0,4.7,11.0,Other,Other,250.0,2110.0,21.1,24792.5,1175.0,2.4849066497880004,False,False,False,False,False,True,False
+106366556,Кофе Coffeelogia Бразилия Сантос Венская обжарка зерновой 250 г,4250.0,4.7,12.0,Other,Other,250.0,1700.0,17.0,19975.0,1175.0,2.5649493574615367,False,False,False,False,False,True,False
+123595880,Кофе Coffeelogia Colombia Supremo Венская обжарка зерновой 1000 г,13300.0,5.0,9.0,Other,Other,1000.0,1330.0,13.3,66500.0,5000.0,2.302585092994046,False,False,False,False,False,True,False
+115672306,Кофе Local coffee Columbia Supremo зерновой 1000 г,14000.0,5.0,5.0,Other,Other,1000.0,1400.0,14.0,70000.0,5000.0,1.791759469228055,False,False,False,False,False,True,False
+107970841,"Кофе Carte Noire Original, Crema Delice зерновой 2 упаковки по 800 г",23732.0,5.0,19.0,Carte,Carte,800.0,2966.5,29.665,118660.0,4000.0,2.995732273553991,True,False,False,False,False,False,False
+144017102,Кофе растворимый Jacobs Dubai Chocolate Style порошковый 10 пакетиков,2200.0,4.8,15.0,Jacobs,Jacobs,500.0,440.00000000000006,4.4,10560.0,2400.0,2.772588722239781,False,True,False,False,False,False,False
+102929767,Кофе Guten berg зерновой ароматизированный Апельсин в шоколаде в пакете 250 г,5275.0,4.9,9.0,Other,Other,250.0,2110.0,21.1,25847.500000000004,1225.0,2.302585092994046,False,False,False,False,False,True,False
+105074217,Кофе растворимый BUSHIDO Black Katana сублимированный 100 г,6999.0,4.8,22.0,Bushido,Bushido,100.0,6998.999999999999,69.99,33595.2,480.0,3.1354942159291497,False,False,False,False,False,False,False
+101892030,Кофе Lavazza L'Espresso Gran Aroma зерновой 1000 г,16079.0,4.8,10.0,Lavazza,Lavazza,1000.0,1607.9,16.079,77179.2,4800.0,2.3978952727983707,False,False,True,False,False,False,False
+121601208,Кофе Caffe Antico La Scala зерновой 1000 г,13786.0,4.9,17.0,Other,Other,1000.0,1378.6,13.786,67551.40000000001,4900.0,2.8903717578961645,False,False,False,False,False,True,False
+109580812,Кофе Guten berg Крем-карамель зерновой 1000 г,17800.0,4.9,9.0,Other,Other,1000.0,1780.0,17.8,87220.0,4900.0,2.302585092994046,False,False,False,False,False,True,False
+100799466,Кофе растворимый Jardin Guatemala Atitlan сублимированный 150 г,3950.0,4.9,17.0,Other,Other,150.0,2633.333333333333,26.333333333333332,19355.0,735.0,2.8903717578961645,False,False,False,False,False,True,False
+101227000,Кофе Lavazza Oro Mountain Grown зерновой в пакете 1000 г,16000.0,4.6,16.0,Lavazza,Lavazza,1000.0,1600.0,16.0,73600.0,4600.0,2.833213344056216,False,False,True,False,False,False,False
+101227013,Кофе растворимый Trung Nguyen G7 3 в 1 сублимированный 50 шт,9900.0,4.9,53.0,Other,Other,500.0,1980.0,19.8,48510.0,2450.0,3.9889840465642745,False,False,False,False,False,True,False
+101144056,Кофе растворимый Bushido Red Katana сублимированный 100 г,7000.0,4.8,17.0,Bushido,Bushido,100.0,7000.0,70.0,33600.0,480.0,2.8903717578961645,False,False,False,False,False,False,False
+103541882,Кофе Grossa Honduras San Marcos SHG зерновой в пакете 1000 г,13000.0,5.0,20.0,Other,Other,1000.0,1300.0,13.0,65000.0,5000.0,3.044522437723423,False,False,False,False,False,True,False
+106366549,Кофе Coffeelogia Кремо Бленд зерновой 250 г,4050.0,5.0,14.0,Other,Other,250.0,1620.0,16.2,20250.0,1250.0,2.70805020110221,False,False,False,False,False,True,False
+121230353,Кофе Local coffee London Blend зерновой 250 г,3000.0,4.9,8.0,Other,Other,250.0,1200.0,12.0,14700.000000000002,1225.0,2.1972245773362196,False,False,False,False,False,True,False
+102930012,Кофе Guten berg зерновой ароматизированный Крем-Брюле в пакете 1 кг,17800.0,4.9,5.0,Other,Other,500.0,3560.0,35.6,87220.0,2450.0,1.791759469228055,False,False,False,False,False,True,False
+103727913,Кофе растворимый Jacobs Iced Latte Original порошковый 215 г,2200.0,5.0,13.0,Jacobs,Jacobs,215.0,1023.2558139534884,10.232558139534884,11000.0,1075.0,2.6390573296152584,False,True,False,False,False,False,False
+100207950,Кофе растворимый MacCoffee Gold сублимированный 30 г,909.0,4.8,16.0,MacCoffee,MacCoffee,30.0,3030.0,30.3,4363.2,144.0,2.833213344056216,False,False,False,True,False,False,False
+100238561,Кофе растворимый Jacobs Latte 3 в 1 порошковый 13 г,95.0,4.8,15.0,Jacobs,Jacobs,13.0,730.7692307692307,7.3076923076923075,456.0,62.4,2.772588722239781,False,True,False,False,False,False,False
+100207921,Кофе растворимый Jacobs Monarch сублимированный 33 г,1155.0,4.9,27.0,Jacobs,Jacobs,33.0,3500.0,35.0,5659.5,161.70000000000002,3.332204510175204,False,True,False,False,False,False,False
+101659830,Кофе растворимый Fes Aroma Instant 3 в 1 порошковый 18 г,63.0,4.8,39.0,Other,Other,18.0,350.0,3.5,302.4,86.39999999999999,3.6888794541139363,False,False,False,False,False,True,False
+130314345,Кофе растворимый Jacobs Gold сублимированный 190 г,7099.0,5.0,14.0,Jacobs,Jacobs,190.0,3736.315789473684,37.363157894736844,35495.0,950.0,2.70805020110221,False,True,False,False,False,False,False
+101184986,Кофе растворимый NESCAFE Gold Aroma Intenso сублимированный 85 г,2099.0,4.8,53.0,NESCAFE,NESCAFE,85.0,2469.4117647058824,24.694117647058825,10075.199999999999,408.0,3.9889840465642745,False,False,False,False,True,False,False
+100240142,Кофе растворимый MacCoffee 3 в 1 Классик порошковый 16 г,99.0,4.8,16.0,MacCoffee,MacCoffee,16.0,618.75,6.1875,475.2,76.8,2.833213344056216,False,False,False,True,False,False,False
+102926174,Кофе растворимый Jardin Gold №4 сублимированный 95 г,2289.0,4.7,25.0,Other,Other,95.0,2409.4736842105262,24.094736842105263,10758.300000000001,446.5,3.258096538021482,False,False,False,False,False,True,False
+105057026,Кофе растворимый NESCAFE strong порошковый 14.5 г,89.0,5.0,14.0,NESCAFE,NESCAFE,5.0,1780.0,17.8,445.0,25.0,2.70805020110221,False,False,False,False,True,False,False
+102061818,Кофе растворимый NESCAFE мягкий 3 в 1 саше порошковый 14.5 г,89.0,4.8,15.0,NESCAFE,NESCAFE,5.0,1780.0,17.8,427.2,24.0,2.772588722239781,False,False,False,False,True,False,False
+102646034,Кофе растворимый NESCAFE classic cappuccino сублимированный 18 г,159.0,5.0,12.0,NESCAFE,NESCAFE,18.0,883.3333333333334,8.833333333333334,795.0,90.0,2.5649493574615367,False,False,False,False,True,False,False
+103482965,Кофе растворимый Maxwell House Rich Blend сублимированный 250 г,4971.0,4.9,103.0,Other,Other,250.0,1988.4,19.884,24357.9,1225.0,4.6443908991413725,False,False,False,False,False,True,False
+102933325,Кофе Guten berg ароматизированный марципан зерновой в пакете 250 г,5275.0,4.8,2.0,Other,Other,250.0,2110.0,21.1,25320.0,1200.0,1.0986122886681098,False,False,False,False,False,True,False
+116042525,Кофе Coffee Expert Bar Decaf Brazil зерновой 1000 г,14599.0,4.9,12.0,Other,Other,1000.0,1459.9,14.599,71535.1,4900.0,2.5649493574615367,False,False,False,False,False,True,False
+115206004,Кофе Kimbo Extra Cream зерновой 1000 г,17891.0,5.0,12.0,Other,Other,1000.0,1789.1,17.891,89455.0,5000.0,2.5649493574615367,False,False,False,False,False,True,False
+106377419,Кофе Coffeelogia Бразилия Моджиана зерновой 1000 г,13650.0,4.9,11.0,Other,Other,1000.0,1365.0,13.65,66885.0,4900.0,2.4849066497880004,False,False,False,False,False,True,False
+142490930,Кофе Serikov Coffee American Blend зерновой 1000 г,15900.0,5.0,6.0,Other,Other,1000.0,1590.0,15.9,79500.0,5000.0,1.9459101490553132,False,False,False,False,False,True,False
+120009214,Кофе Tasty Coffee Бразилия Серрадо зерновой 1000 г,21609.0,5.0,17.0,Other,Other,1000.0,2160.9,21.609,108045.0,5000.0,2.8903717578961645,False,False,False,False,False,True,False
+106366444,Кофе Coffeelogia Альфа Бленд зерновой 250 г,4000.0,4.9,4.0,Other,Other,250.0,1600.0,16.0,19600.0,1225.0,1.6094379124341003,False,False,False,False,False,True,False
+101468910,Кофе Movenpick Espresso зерновой в пакете 500 г,9399.0,4.9,12.0,Other,Other,500.0,1879.7999999999997,18.798,46055.100000000006,2450.0,2.5649493574615367,False,False,False,False,False,True,False
+103026246,Кофе растворимый Jacobs 3 in 1 гранулированный 10 шт по 18 г,2200.0,4.9,11.0,Jacobs,Jacobs,1.0,220000.0,2200.0,10780.0,4.9,2.4849066497880004,False,True,False,False,False,False,False
+110084526,Кофе растворимый Jardin Gourmet Coffee Collection сублимированный 150 г,3900.0,4.8,14.0,Other,Other,150.0,2600.0,26.0,18720.0,720.0,2.70805020110221,False,False,False,False,False,True,False
+103541825,Кофе Grossa Cuba Serrano Lavado зерновой в пакете 1000 г,14600.0,4.9,13.0,Other,Other,1000.0,1460.0,14.6,71540.0,4900.0,2.6390573296152584,False,False,False,False,False,True,False
+102928746,Кофе Guten berg зерновой ароматизированный Венские вафли в пакете 1 кг,18190.0,5.0,4.0,Other,Other,500.0,3638.0000000000005,36.38,90950.0,2500.0,1.6094379124341003,False,False,False,False,False,True,False
+108178482,Кофе Coffeelogia Гватемала Декаф зерновой 1000 г,15950.0,4.9,7.0,Other,Other,1000.0,1595.0,15.95,78155.0,4900.0,2.0794415416798357,False,False,False,False,False,True,False
+101141509,Кофе Dallmayr Crema Prodomo зерновой в пакете 1000 г,18999.0,4.9,13.0,Other,Other,1000.0,1899.8999999999999,18.999,93095.1,4900.0,2.6390573296152584,False,False,False,False,False,True,False
+140732929,Кофе Gutenberg Пралине зерновой 100 г,1900.0,4.8,3.0,Other,Other,100.0,1900.0,19.0,9120.0,480.0,1.3862943611198906,False,False,False,False,False,True,False
+106377418,Кофе Coffeelogia Бурунди Ярама зерновой 1000 г,13800.0,5.0,8.0,Other,Other,1000.0,1380.0,13.8,69000.0,5000.0,2.1972245773362196,False,False,False,False,False,True,False
+100761161,Кофе Covim Granbar зерновой 1000 г,14189.0,4.8,38.0,Other,Other,1000.0,1418.9,14.189,68107.2,4800.0,3.6635616461296463,False,False,False,False,False,True,False
+106366463,Кофе Coffeelogia Кения Центральная зерновой 250 г,4500.0,4.7,13.0,Other,Other,250.0,1800.0,18.0,21150.0,1175.0,2.6390573296152584,False,False,False,False,False,True,False
+106378447,Кофе Coffeelogia Альфа Бленд зерновой 1000 г,12250.0,5.0,6.0,Other,Other,1000.0,1225.0,12.25,61250.0,5000.0,1.9459101490553132,False,False,False,False,False,True,False
+140732817,Кофе Gutenberg Ирландские сливки зерновой 100 г,1900.0,4.5,3.0,Other,Other,100.0,1900.0,19.0,8550.0,450.0,1.3862943611198906,False,False,False,False,False,True,False
+117947026,Кофе Coffeelogia Персиковый брауни Бленд зерновой 250 г,4050.0,5.0,8.0,Other,Other,250.0,1620.0,16.2,20250.0,1250.0,2.1972245773362196,False,False,False,False,False,True,False
+100207962,Кофе растворимый Жокей Триумф сублимированный 150 г,3600.0,4.7,14.0,Other,Other,150.0,2400.0,24.0,16920.0,705.0,2.70805020110221,False,False,False,False,False,True,False
+106127829,Кофе Green Roast Арабика Колумбия зерновой в пакете 250 г,4400.0,5.0,20.0,Other,Other,250.0,1760.0000000000002,17.6,22000.0,1250.0,3.044522437723423,False,False,False,False,False,True,False
+105074487,Кофе растворимый EGOISTE Platinum сублимированный 100 г,8448.0,5.0,14.0,Other,Other,100.0,8448.0,84.48,42240.0,500.0,2.70805020110221,False,False,False,False,False,True,False
+102929577,Кофе Guten berg зерновой ароматизированный Марципан в пакете 1 кг,18190.0,4.7,7.0,Other,Other,500.0,3638.0000000000005,36.38,85493.0,2350.0,2.0794415416798357,False,False,False,False,False,True,False
+117327253,Кофе Delonghi Espresso Presige зерновой 1000 г,19890.0,5.0,9.0,Other,Other,1000.0,1989.0,19.89,99450.0,5000.0,2.302585092994046,False,False,False,False,False,True,False
+117702618,Кофе растворимый Maxim Original сублимированный 20 пакетиков,3700.0,4.8,8.0,Other,Other,500.0,740.0,7.4,17760.0,2400.0,2.1972245773362196,False,False,False,False,False,True,False
+106744379,Кофе BAZZARA Dodicigrancru зерновой в пакете 1000 г,32000.0,5.0,5.0,Other,Other,1000.0,3200.0,32.0,160000.0,5000.0,1.791759469228055,False,False,False,False,False,True,False
+106377376,Кофе Coffeelogia Бурунди Ярама зерновой 500 г,7950.0,5.0,7.0,Other,Other,500.0,1590.0,15.9,39750.0,2500.0,2.0794415416798357,False,False,False,False,False,True,False
+106377431,Кофе Coffeelogia Кремо бленд зерновой 1000 г,12350.0,5.0,6.0,Other,Other,1000.0,1235.0,12.35,61750.0,5000.0,1.9459101490553132,False,False,False,False,False,True,False
+106377402,Кофе Coffeelogia Кения Центральная зерновой 1000 г,13700.0,4.9,11.0,Other,Other,1000.0,1370.0,13.7,67130.0,4900.0,2.4849066497880004,False,False,False,False,False,True,False
+106366452,Кофе Coffeelogia Номад Бленд зерновой 250 г,4050.0,4.9,20.0,Other,Other,250.0,1620.0,16.2,19845.0,1225.0,3.044522437723423,False,False,False,False,False,True,False
+104267853,Кофе Sunday Coffee Exclusive зерновой арабика/робуста в пакете 1000 г,13200.0,4.8,26.0,Other,Other,1000.0,1320.0,13.2,63360.0,4800.0,3.295836866004329,False,False,False,False,False,True,False
+105026759,Кофе растворимый Movenpick Gold Original сублимированный 100 г,5550.0,4.9,20.0,Other,Other,100.0,5550.0,55.5,27195.000000000004,490.00000000000006,3.044522437723423,False,False,False,False,False,True,False
+146996025,Кофе растворимый ЯРКО латте банановое порошковый 30 г 1 саше,260.0,0.0,0.0,Other,Other,30.0,866.6666666666666,8.666666666666666,0.0,0.0,0.0,False,False,False,False,False,True,False
+106377378,Кофе Coffeelogia Бразилия Моджиана зерновой 500 г,7850.0,4.9,5.0,Other,Other,500.0,1570.0,15.7,38465.0,2450.0,1.791759469228055,False,False,False,False,False,True,False
+116295292,Кофе Kimbo DeLonghi Arabica зерновой 250 г,5890.0,4.8,14.0,Other,Other,250.0,2356.0,23.56,28272.0,1200.0,2.70805020110221,False,False,False,False,False,True,False
+141881585,Кофе Master Coffee Бразилия Тёмная зерновой 250 г,4290.0,5.0,15.0,Other,Other,250.0,1716.0,17.16,21450.0,1250.0,2.772588722239781,False,False,False,False,False,True,False
+100799586,Кофе растворимый MacCoffee Cappuccino Di Torino порошковый 20 шт,3099.0,5.0,19.0,MacCoffee,MacCoffee,500.0,619.8000000000001,6.198,15495.0,2500.0,2.995732273553991,False,False,False,True,False,False,False
+101152386,Кофе Dallmayr Crema d’Oro зерноввой в пакете 1000 г,19798.0,4.7,20.0,Other,Other,1000.0,1979.7999999999997,19.798,93050.6,4700.0,3.044522437723423,False,False,False,False,False,True,False
+105027214,Кофе растворимый EGOISTE Special сублимированный 100 г,7568.0,4.9,10.0,Other,Other,100.0,7568.000000000001,75.68,37083.200000000004,490.00000000000006,2.3978952727983707,False,False,False,False,False,True,False
+117294106,Кофе BUSHIDO Sensei зерновой 1000 г,21899.0,5.0,15.0,Bushido,Bushido,1000.0,2189.9,21.899,109495.0,5000.0,2.772588722239781,False,False,False,False,False,False,False
+102938284,Кофе растворимый Jacobs Barista Americano гранулированный 130 г,4690.0,4.8,16.0,Jacobs,Jacobs,130.0,3607.692307692308,36.07692307692308,22512.0,624.0,2.833213344056216,False,True,False,False,False,False,False
+106365791,Кофе Coffeelogia Бразилия Моджиана зерновой 250 г,4450.0,4.9,8.0,Other,Other,250.0,1780.0,17.8,21805.0,1225.0,2.1972245773362196,False,False,False,False,False,True,False
+115873805,Кофе Alta Roma Blend №5 зерновой 1000 г,16490.0,5.0,5.0,Other,Other,1000.0,1648.9999999999998,16.49,82450.0,5000.0,1.791759469228055,False,False,False,False,False,True,False
+147356710,Кофе растворимый DES латте фисташка порошковый,260.0,5.0,1.0,Other,Other,500.0,52.0,0.52,1300.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+144710373,Кофе Serikov Coffee Руанда Мука Киву зерновой 200 г,4400.0,5.0,2.0,Other,Other,200.0,2200.0,22.0,22000.0,1000.0,1.0986122886681098,False,False,False,False,False,True,False
+101152384,Кофе Bushido Black Katana зерновой в пакете 227 г,5410.0,4.8,22.0,Bushido,Bushido,227.0,2383.259911894273,23.83259911894273,25968.0,1089.6,3.1354942159291497,False,False,False,False,False,False,False
+141671873,Кофе растворимый MOKATE Brown Sugar порошковый 17 г,149.0,4.8,0.0,Other,Other,17.0,876.4705882352941,8.764705882352942,715.1999999999999,81.6,0.0,False,False,False,False,False,True,False
+130812057,Кофе Delonghi Coffee Crema зерновой 1000 г,19890.0,4.8,19.0,Other,Other,1000.0,1989.0,19.89,95472.0,4800.0,2.995732273553991,False,False,False,False,False,True,False
+101405076,Кофе Delonghi Classico Espresso зерновой в пакете 250 г,5990.0,4.9,10.0,Other,Other,250.0,2396.0,23.96,29351.000000000004,1225.0,2.3978952727983707,False,False,False,False,False,True,False
+146070298,Кофе Serikov Coffee Italian Blend 80/20 зерновой 1000 г,14800.0,5.0,4.0,Other,Other,1000.0,1480.0,14.8,74000.0,5000.0,1.6094379124341003,False,False,False,False,False,True,False
+102933559,Кофе Gutenberg клубничная панна-котта зерновой 250 г,5275.0,5.0,4.0,Other,Other,250.0,2110.0,21.1,26375.0,1250.0,1.6094379124341003,False,False,False,False,False,True,False
+101227461,Кофе Coffeelogia Эспрессо Бленд зерновой 250 г,4000.0,4.8,37.0,Other,Other,250.0,1600.0,16.0,19200.0,1200.0,3.6375861597263857,False,False,False,False,False,True,False
+102929957,Кофе Guten berg зерновой ароматизированный Капучино в пакете 1 кг,18190.0,4.8,5.0,Other,Other,500.0,3638.0000000000005,36.38,87312.0,2400.0,1.791759469228055,False,False,False,False,False,True,False
+108733844,Кофе растворимый Carte Noire White Coffee сублимированный 20 шт,4400.0,4.9,14.0,Carte,Carte,500.0,880.0000000000001,8.8,21560.0,2450.0,2.70805020110221,True,False,False,False,False,False,False
+147775967,Кофе Massimo Coffee Miriam Quesada Pink Bourbon зерновой 250 г,10290.0,5.0,0.0,Other,Other,250.0,4116.0,41.16,51450.0,1250.0,0.0,False,False,False,False,False,True,False
+100762688,Кофе Lavazza Café Espresso в пакете зерновой 250 г,7190.0,4.9,6.0,Lavazza,Lavazza,250.0,2876.0,28.76,35231.0,1225.0,1.9459101490553132,False,False,True,False,False,False,False
+103023296,Кофе Sunrise Coffee City blend зерновой в пакете 1000 г,14000.0,4.9,17.0,Other,Other,1000.0,1400.0,14.0,68600.0,4900.0,2.8903717578961645,False,False,False,False,False,True,False
+132703586,Кофе Сова Сладкая Бразилия зерновой 1000 г,15000.0,4.9,14.0,Other,Other,1000.0,1500.0,15.0,73500.0,4900.0,2.70805020110221,False,False,False,False,False,True,False
+106378663,Кофе Coffeelogia Номад Бленд зерновой 500 г,7200.0,5.0,18.0,Other,Other,500.0,1440.0,14.4,36000.0,2500.0,2.9444389791664403,False,False,False,False,False,True,False
+101400557,Кофе Covim Suave Decaffeinato зерновой 500 г,10400.0,5.0,20.0,Other,Other,500.0,2080.0,20.8,52000.0,2500.0,3.044522437723423,False,False,False,False,False,True,False
+132160855,Кофе Grossa Ethiopia Sidamo 4 Gr зерновой 200 г,3300.0,4.9,7.0,Other,Other,4.0,82500.0,825.0,16170.000000000002,19.6,2.0794415416798357,False,False,False,False,False,True,False
+102331050,Кофе растворимый Bourbon coffee Grand Cru сублимированный 100 г,3711.0,4.7,11.0,Other,Other,100.0,3711.0,37.11,17441.7,470.0,2.4849066497880004,False,False,False,False,False,True,False
+105074543,Кофе растворимый BUSHIDO Light Katana сублимированный 100 г,7999.0,5.0,17.0,Bushido,Bushido,100.0,7998.999999999999,79.99,39995.0,500.0,2.8903717578961645,False,False,False,False,False,False,False
+103315634,Кофе Delonghi Decaffeinato Espresso зерновой в пакете 250 г,4990.0,4.7,10.0,Other,Other,250.0,1996.0,19.96,23453.0,1175.0,2.3978952727983707,False,False,False,False,False,True,False
+105074301,Кофе растворимый EGOISTE V.S. сублимированный 100 г,7460.0,5.0,9.0,Other,Other,100.0,7459.999999999999,74.6,37300.0,500.0,2.302585092994046,False,False,False,False,False,True,False
+105308110,Кофе Kimbo Aroma Gold зерновой в пакете 250 г,4990.0,4.8,6.0,Other,Other,250.0,1996.0,19.96,23952.0,1200.0,1.9459101490553132,False,False,False,False,False,True,False
+112915094,Кофе Movenpick Crema Autentico зерновой 1000 г,18197.0,5.0,11.0,Other,Other,1000.0,1819.6999999999998,18.197,90985.0,5000.0,2.4849066497880004,False,False,False,False,False,True,False
+105495773,Кофе BAZZARA Aromamore зерновой в пакете 1000 г,23100.0,4.9,7.0,Other,Other,1000.0,2310.0,23.1,113190.00000000001,4900.0,2.0794415416798357,False,False,False,False,False,True,False
+146996085,Кофе растворимый ЯРКО раф ванильновый порошковый 30 г 1 саше,260.0,0.0,0.0,Other,Other,30.0,866.6666666666666,8.666666666666666,0.0,0.0,0.0,False,False,False,False,False,True,False
+100207931,Кофе растворимый Today Pure Arabica сублимированный 95 г,4150.0,5.0,12.0,Other,Other,95.0,4368.421052631579,43.68421052631579,20750.0,475.0,2.5649493574615367,False,False,False,False,False,True,False
+100207970,Кофе растворимый Jardin Colombia Medellin сублимированный 150 г,3950.0,4.8,18.0,Other,Other,150.0,2633.333333333333,26.333333333333332,18960.0,720.0,2.9444389791664403,False,False,False,False,False,True,False
+134042929,Кофе Local coffee Kenya Uhuru зерновой 1000 г,14000.0,4.7,2.0,Other,Other,1000.0,1400.0,14.0,65800.0,4700.0,1.0986122886681098,False,False,False,False,False,True,False
+123595905,Кофе Coffeelogia Colombia Supremo Венская обжарка зерновой 500 г,7700.0,4.8,2.0,Other,Other,500.0,1540.0,15.4,36960.0,2400.0,1.0986122886681098,False,False,False,False,False,True,False
+107970976,Кофе Sunday Coffee Crema Бразилия зерновой 500 г,7500.0,4.7,41.0,Other,Other,500.0,1500.0,15.0,35250.0,2350.0,3.7376696182833684,False,False,False,False,False,True,False
+132224778,Кофе Der Franz Crema зерновой 500 г,7750.0,5.0,4.0,Other,Other,500.0,1550.0,15.5,38750.0,2500.0,1.6094379124341003,False,False,False,False,False,True,False
+101141276,Кофе illy Monoarabica Brazil зерновой в банке 250 г,9367.0,5.0,10.0,Other,Other,250.0,3746.8,37.468,46835.0,1250.0,2.3978952727983707,False,False,False,False,False,True,False
+102363086,Кофе Lavazza Aroma Top в пакете зерновой 1000 г,19000.0,5.0,31.0,Lavazza,Lavazza,1000.0,1900.0,19.0,95000.0,5000.0,3.4657359027997265,False,False,True,False,False,False,False
+101152100,Кофе растворимый Bushido Original сублимированный 75 г,5949.0,4.8,23.0,Bushido,Bushido,75.0,7931.999999999999,79.32,28555.2,360.0,3.1780538303479458,False,False,False,False,False,False,False
+112568724,Кофе Gutenberg Бельгийский шоколад зерновой 1000 г,18190.0,4.9,6.0,Other,Other,1000.0,1819.0000000000002,18.19,89131.0,4900.0,1.9459101490553132,False,False,False,False,False,True,False
+103719395,Кофе растворимый Jacobs ICED LATTE SALTED CARAMEL 3 в 1 порошковый 10 шт,2200.0,5.0,11.0,Jacobs,Jacobs,500.0,440.00000000000006,4.4,11000.0,2500.0,2.4849066497880004,False,True,False,False,False,False,False
+101147687,Кофе растворимый EGOISTE X.O. сублимированный 100 г,8365.0,4.8,13.0,Other,Other,100.0,8365.0,83.65,40152.0,480.0,2.6390573296152584,False,False,False,False,False,True,False
+106919318,Кофе Sunday Coffee Horeca blend зерновой в пакете 1000 г,13000.0,4.8,3.0,Other,Other,1000.0,1300.0,13.0,62400.0,4800.0,1.3862943611198906,False,False,False,False,False,True,False
+101161409,Кофе EGOISTE Velvet зерновой в пакете 200 г,6049.0,4.8,11.0,Other,Other,200.0,3024.5,30.245,29035.2,960.0,2.4849066497880004,False,False,False,False,False,True,False
+146995996,Кофе растворимый ЯРКО латте миндальновое порошковый 30 г 1 саше,260.0,5.0,0.0,Other,Other,30.0,866.6666666666666,8.666666666666666,1300.0,150.0,0.0,False,False,False,False,False,True,False
+139276409,Кофе Serikov Coffee Italian Blend зерновой 1000 г,15090.0,4.6,5.0,Other,Other,1000.0,1509.0,15.09,69414.0,4600.0,1.791759469228055,False,False,False,False,False,True,False
+114016714,Кофе EGOISTE Captain зерновой 250 г,5849.0,4.8,9.0,Other,Other,250.0,2339.6,23.396,28075.2,1200.0,2.302585092994046,False,False,False,False,False,True,False
+147340065,Кофе Serikov Coffee Руанда Икивигуто зерновой 200 г,4200.0,5.0,0.0,Other,Other,200.0,2100.0,21.0,21000.0,1000.0,0.0,False,False,False,False,False,True,False
+145890684,Кофе Master Coffee Кения Кифару для фильтра зерновой 250 г,5790.0,5.0,2.0,Other,Other,250.0,2316.0,23.16,28950.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+118796340,Кофе Green Roast Decaff без кофеина зерновой 500 г,9700.0,5.0,12.0,Other,Other,500.0,1939.9999999999998,19.4,48500.0,2500.0,2.5649493574615367,False,False,False,False,False,True,False
+105921968,Кофе Green Roast Фрутти зерновой в пакете 250 г,4300.0,5.0,16.0,Other,Other,250.0,1720.0,17.2,21500.0,1250.0,2.833213344056216,False,False,False,False,False,True,False
+139474022,Кофе растворимый Coffeelogia Brazil сублимированный 100 г,2800.0,4.8,22.0,Other,Other,100.0,2800.0,28.0,13440.0,480.0,3.1354942159291497,False,False,False,False,False,True,False
+142168099,Кофе AYAT AZIMOV COFFEE Kilimanjaro Blend зерновой 1000 г,12450.0,4.8,3.0,Other,Other,1000.0,1245.0,12.45,59760.0,4800.0,1.3862943611198906,False,False,False,False,False,True,False
+100799680,Кофе растворимый MacCoffee Original 3 в 1 порошковый 25 шт 500 г,3399.0,5.0,10.0,MacCoffee,MacCoffee,500.0,679.8,6.798,16995.0,2500.0,2.3978952727983707,False,False,False,True,False,False,False
+146995762,Кофе растворимый ЯРКО латте пломбирновое порошковый 30 г 1 саше,260.0,5.0,1.0,Other,Other,30.0,866.6666666666666,8.666666666666666,1300.0,150.0,0.6931471805599453,False,False,False,False,False,True,False
+117764710,Кофе растворимый Maxim Decaffeinated сублимированный 20 пакетиков,4300.0,4.9,5.0,Other,Other,500.0,860.0,8.6,21070.0,2450.0,1.791759469228055,False,False,False,False,False,True,False
+105074640,Кофе растворимый Bourbon coffee Original сублимированный 100 г,2999.0,4.9,10.0,Other,Other,100.0,2999.0,29.99,14695.1,490.00000000000006,2.3978952727983707,False,False,False,False,False,True,False
+116288224,Кофе TOREO Toreo Arabica Dulce зерновой 1000 г,13860.0,4.8,15.0,Other,Other,1000.0,1386.0,13.86,66528.0,4800.0,2.772588722239781,False,False,False,False,False,True,False
+105921908,Кофе Green Roast Фрутти зерновой в пакете 1000 г,14900.0,5.0,17.0,Other,Other,1000.0,1490.0,14.9,74500.0,5000.0,2.8903717578961645,False,False,False,False,False,True,False
+103541890,Кофе Grossa Mexico Las Chicharras зерновой в пакете 1000 г,14700.0,4.9,12.0,Other,Other,1000.0,1470.0,14.7,72030.0,4900.0,2.5649493574615367,False,False,False,False,False,True,False
+101155488,Кофе illy Espresso зерновой банка 250 г,7608.0,5.0,4.0,Other,Other,250.0,3043.2,30.432,38040.0,1250.0,1.6094379124341003,False,False,False,False,False,True,False
+132617126,Кофе Helmut Sachers Kaffee Der-Franz-Caramel зерновой 500 г,8000.0,4.8,8.0,Other,Other,500.0,1600.0,16.0,38400.0,2400.0,2.1972245773362196,False,False,False,False,False,True,False
+101161443,Кофе Paulig Arabica зерновой в пакете 1000 г,21690.0,4.8,52.0,Other,Other,1000.0,2169.0,21.69,104112.0,4800.0,3.970291913552122,False,False,False,False,False,True,False
+100207977,Кофе растворимый Jardin Kenya Kilimanjaro 95 г,3000.0,4.8,21.0,Other,Other,95.0,3157.894736842105,31.57894736842105,14400.0,456.0,3.091042453358316,False,False,False,False,False,True,False
+101145483,Кофе растворимый Bushido Red Katana сублимированный 75 г,6199.0,5.0,9.0,Bushido,Bushido,75.0,8265.333333333334,82.65333333333334,30995.0,375.0,2.302585092994046,False,False,False,False,False,False,False
+110856908,Кофе растворимый EGOISTE Truffle гранулированный 95 г,6750.0,4.9,5.0,Other,Other,95.0,7105.263157894737,71.05263157894737,33075.0,465.50000000000006,1.791759469228055,False,False,False,False,False,True,False
+101679685,Кофе растворимый NESCAFE Classic Latte саше порошковый 18 г,159.0,5.0,14.0,NESCAFE,NESCAFE,18.0,883.3333333333334,8.833333333333334,795.0,90.0,2.70805020110221,False,False,False,False,True,False,False
+100238743,Кофе растворимый Jacobs Monarch сублимированный 50 г,1725.0,4.8,19.0,Jacobs,Jacobs,50.0,3450.0,34.5,8280.0,240.0,2.995732273553991,False,True,False,False,False,False,False
+103026283,Кофе растворимый MacCoffee Light порошковый 12 г,85.0,4.8,12.0,MacCoffee,MacCoffee,12.0,708.3333333333333,7.083333333333333,408.0,57.599999999999994,2.5649493574615367,False,False,False,True,False,False,False
+100798783,Кофе растворимый Carte Noire Промо сублимированный 200 г,8050.0,4.9,188.0,Carte,Carte,200.0,4025.0,40.25,39445.0,980.0000000000001,5.241747015059643,True,False,False,False,False,False,False
+109734596,Кофе Compass Vending Blend зерновой 1000 г,9200.0,4.9,861.0,Other,Other,1000.0,919.9999999999999,9.2,45080.0,4900.0,6.759255270663693,False,False,False,False,False,True,False
+100798909,Кофе Jacobs Monarch Классический зерновой 230 г,3484.0,4.8,56.0,Jacobs,Jacobs,230.0,1514.7826086956522,15.147826086956522,16723.2,1104.0,4.04305126783455,False,True,False,False,False,False,False
+100240010,Кофе растворимый MacCoffee Americano Creme 3 в 1 порошковый 18 г,119.0,5.0,20.0,MacCoffee,MacCoffee,18.0,661.1111111111111,6.611111111111111,595.0,90.0,3.044522437723423,False,False,False,True,False,False,False
+102071332,Кофе растворимый MacCoffee Gold гранулированный 90 г,2694.0,4.7,14.0,MacCoffee,MacCoffee,90.0,2993.3333333333335,29.933333333333334,12661.800000000001,423.0,2.70805020110221,False,False,False,True,False,False,False
+100208058,Кофе растворимый MacCoffee Arabica сублимированный 90 г,2025.0,4.6,7.0,MacCoffee,MacCoffee,90.0,2250.0,22.5,9315.0,413.99999999999994,2.0794415416798357,False,False,False,True,False,False,False
+100798205,Кофе растворимый NESCAFE Gold сублимированный 47.5 г,1689.0,5.0,12.0,NESCAFE,NESCAFE,5.0,33780.0,337.8,8445.0,25.0,2.5649493574615367,False,False,False,False,True,False,False
+100207912,Кофе растворимый MacCoffee Arabica сублимированный 40 г,1029.0,4.8,12.0,MacCoffee,MacCoffee,40.0,2572.5,25.725,4939.2,192.0,2.5649493574615367,False,False,False,True,False,False,False
+100240148,Кофе растворимый MacCoffee 3 в 1 Крепкий порошковый 16 г,99.0,4.8,13.0,MacCoffee,MacCoffee,16.0,618.75,6.1875,475.2,76.8,2.6390573296152584,False,False,False,True,False,False,False
+103801026,Кофе Fresco Arabica Solo зерновой в пакете 200 г,2989.0,5.0,14.0,Other,Other,200.0,1494.5,14.945,14945.0,1000.0,2.70805020110221,False,False,False,False,False,True,False
+117698478,Кофе растворимый Maxim Mocha Gold сублимированный 170 г,7600.0,4.9,5.0,Other,Other,170.0,4470.588235294117,44.705882352941174,37240.0,833.0000000000001,1.791759469228055,False,False,False,False,False,True,False
+102933643,Кофе Guten berg ароматизированный Солнце Сицилии зерновой в пакете 250 г,5275.0,5.0,4.0,Other,Other,250.0,2110.0,21.1,26375.0,1250.0,1.6094379124341003,False,False,False,False,False,True,False
+103911979,Кофе растворимый Impresso Ristretto сублимированный 100 г,2149.0,4.8,9.0,Other,Other,100.0,2149.0,21.49,10315.199999999999,480.0,2.302585092994046,False,False,False,False,False,True,False
+130999490,Кофе Coffeelogia Гватемала Санта Рита зерновой 250 г,5200.0,4.8,3.0,Other,Other,250.0,2080.0,20.8,24960.0,1200.0,1.3862943611198906,False,False,False,False,False,True,False
+117947145,Кофе Coffeelogia Колумбия Декаф зерновой 500 г,9000.0,4.0,0.0,Other,Other,500.0,1800.0,18.0,36000.0,2000.0,0.0,False,False,False,False,False,True,False
+145890677,Кофе Master Coffee Колумбия Эль Вергель (лакто) для фильтра зерновой 250 г,7490.0,5.0,2.0,Other,Other,250.0,2996.0,29.96,37450.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+100207975,Кофе растворимый Jardin Kenya Kilimanjaro гранулированный 75 г,2150.0,4.9,17.0,Other,Other,75.0,2866.666666666667,28.666666666666668,10535.0,367.5,2.8903717578961645,False,False,False,False,False,True,False
+145890676,Кофе Master Coffee Коста-Рика Пикадо Монтеро для фильтра зерновой 250 г,5790.0,5.0,3.0,Other,Other,250.0,2316.0,23.16,28950.0,1250.0,1.3862943611198906,False,False,False,False,False,True,False
+105074270,Кофе растворимый EGOISTE Special сублимированный 100 г,6699.0,5.0,10.0,Other,Other,100.0,6698.999999999999,66.99,33495.0,500.0,2.3978952727983707,False,False,False,False,False,True,False
+144711561,Кофе растворимый Bridge Coffee Капучино порошковый 20 г,150.0,4.8,1.0,Other,Other,20.0,750.0,7.5,720.0,96.0,0.6931471805599453,False,False,False,False,False,True,False
+105239468,Кофе Lofbergs Brazil 3 зерновой 1000 г,22150.0,4.8,10.0,Other,Other,1000.0,2215.0,22.15,106320.0,4800.0,2.3978952727983707,False,False,False,False,False,True,False
+117702371,Кофе растворимый Maxim Original сублимированный 100 пакетиков,12700.0,4.8,7.0,Other,Other,500.0,2540.0,25.4,60960.0,2400.0,2.0794415416798357,False,False,False,False,False,True,False
+139474003,Кофе растворимый Coffeelogia Brazil сублимированный 250 г,4950.0,4.9,7.0,Other,Other,250.0,1980.0,19.8,24255.0,1225.0,2.0794415416798357,False,False,False,False,False,True,False
+101141470,Кофе EGOISTE Espresso зерновой в пакете 1000 г,20860.0,5.0,11.0,Other,Other,1000.0,2086.0,20.86,104300.0,5000.0,2.4849066497880004,False,False,False,False,False,True,False
+102942414,Кофе растворимый Жокей арабика гранулированный 95 г,2250.0,4.7,14.0,Other,Other,95.0,2368.421052631579,23.68421052631579,10575.0,446.5,2.70805020110221,False,False,False,False,False,True,False
+116295343,Кофе Kimbo DeLonghi Prestige зерновой 250 г,4990.0,5.0,5.0,Other,Other,250.0,1996.0,19.96,24950.0,1250.0,1.791759469228055,False,False,False,False,False,True,False
+121065194,Кофе Caffe Antico Montenapoleone зерновой 1000 г,13864.0,4.8,16.0,Other,Other,1000.0,1386.4,13.864,66547.2,4800.0,2.833213344056216,False,False,False,False,False,True,False
+102928788,Кофе Guten berg зерновой Бейлис ароматизированный в пакете 1 кг,18190.0,5.0,3.0,Other,Other,500.0,3638.0000000000005,36.38,90950.0,2500.0,1.3862943611198906,False,False,False,False,False,True,False
+105922030,Кофе Green Roast Этажи 90/10 зерновой 250 г,3800.0,5.0,6.0,Other,Other,250.0,1520.0,15.2,19000.0,1250.0,1.9459101490553132,False,False,False,False,False,True,False
+116119680,Кофе Coffeelogia Изюм и Шоколад Бленд зерновой 250 г,4050.0,4.9,4.0,Other,Other,250.0,1620.0,16.2,19845.0,1225.0,1.6094379124341003,False,False,False,False,False,True,False
+123258452,Кофе растворимый Torabika Cappuccino порошковый 510 г,3249.0,5.0,15.0,Other,Other,510.0,637.0588235294117,6.370588235294117,16245.0,2550.0,2.772588722239781,False,False,False,False,False,True,False
+131661959,Кофе Local coffee Kenya Uhuru зерновой 250 г,4100.0,5.0,2.0,Other,Other,250.0,1639.9999999999998,16.4,20500.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+103560862,Кофе Grossa Lugardi зерновой арабика 1000 г,13200.0,5.0,19.0,Other,Other,1000.0,1320.0,13.2,66000.0,5000.0,2.995732273553991,False,False,False,False,False,True,False
+147775951,Кофе Massimo Coffee Santa Barbara Geisha зерновой 250 г,14590.0,5.0,0.0,Other,Other,250.0,5836.0,58.36,72950.0,1250.0,0.0,False,False,False,False,False,True,False
+145890690,Кофе Master Coffee Индонезия Линтонг Нихута для фильтра зерновой 250 г,5490.0,5.0,2.0,Other,Other,250.0,2196.0,21.96,27450.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+138560660,Кофе Gutenberg шоколадный брауни зерновой 1000 г,18190.0,4.3,2.0,Other,Other,1000.0,1819.0000000000002,18.19,78217.0,4300.0,1.0986122886681098,False,False,False,False,False,True,False
+101468913,Кофе Movenpick Autentico зерновой в пакете 1000 г,20900.0,4.9,20.0,Other,Other,1000.0,2090.0,20.9,102410.00000000001,4900.0,3.044522437723423,False,False,False,False,False,True,False
+101892051,Кофе Lavazza Espresso Barista Gran Crema зерновой в пакете 1000 г,18700.0,4.8,10.0,Lavazza,Lavazza,1000.0,1870.0,18.7,89760.0,4800.0,2.3978952727983707,False,False,True,False,False,False,False
+120375342,Кофе растворимый Maxim Supreme Gold Cofee Mix сублимированный 100 стиков,18400.0,5.0,10.0,Other,Other,500.0,3679.9999999999995,36.8,92000.0,2500.0,2.3978952727983707,False,False,False,False,False,True,False
+101141297,Кофе illy Monoarabica Guatemala зерновой в банке 250 г,9600.0,5.0,2.0,Other,Other,250.0,3840.0,38.4,48000.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+140737063,Кофе LEBO Coffee Espresso Italiano зерновой 220 г,4499.0,4.5,2.0,Other,Other,220.0,2045.0,20.45,20245.5,990.0,1.0986122886681098,False,False,False,False,False,True,False
+100207974,Кофе растворимый Jardin Colombia Medellin сублимированный 75 г,2150.0,4.9,16.0,Other,Other,75.0,2866.666666666667,28.666666666666668,10535.0,367.5,2.833213344056216,False,False,False,False,False,True,False
+105074480,Кофе растворимый EGOISTE Private сублимированный 100 г,7498.0,5.0,16.0,Other,Other,100.0,7498.0,74.98,37490.0,500.0,2.833213344056216,False,False,False,False,False,True,False
+106258906,Кофе Lavazza Crema E Aroma зерновой 2 пачки по 1000 г,27500.0,4.9,75.0,Lavazza,Lavazza,1000.0,2750.0,27.5,134750.0,4900.0,4.330733340286331,False,False,True,False,False,False,False
+143659787,Кофе Massimo Coffee Kenya Gachata AA зерновой 250 г,10000.0,5.0,2.0,Other,Other,250.0,4000.0,40.0,50000.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+113285476,Кофе Lavazza Qualita Oro зерновой 2 упаковки по 250 г,9079.0,5.0,36.0,Lavazza,Lavazza,250.0,3631.6000000000004,36.316,45395.0,1250.0,3.6109179126442243,False,False,True,False,False,False,False
+142783725,Кофе AYAT AZIMOV COFFEE Amazon Blend зерновой 500 г,6550.0,5.0,2.0,Other,Other,500.0,1310.0,13.1,32750.0,2500.0,1.0986122886681098,False,False,False,False,False,True,False
+101141474,Кофе Bushido Specialty Coffee зерновой в пакете 227 г,5621.0,4.7,21.0,Bushido,Bushido,227.0,2476.211453744493,24.762114537444933,26418.7,1066.9,3.091042453358316,False,False,False,False,False,False,False
+100207964,Кофе растворимый Jardin Guatemala Atitlan сублимированный 75 г,2150.0,4.9,13.0,Other,Other,75.0,2866.666666666667,28.666666666666668,10535.0,367.5,2.6390573296152584,False,False,False,False,False,True,False
+140510098,Кофе растворимый Carte Noire Voyage Au Japan гранулированный 90 г,5000.0,5.0,8.0,Carte,Carte,90.0,5555.555555555556,55.55555555555556,25000.0,450.0,2.1972245773362196,True,False,False,False,False,False,False
+146907620,Кофе растворимый DES капучино солёная карамель порошковый 20 стиков,260.0,5.0,0.0,Other,Other,500.0,52.0,0.52,1300.0,2500.0,0.0,False,False,False,False,False,True,False
+116288211,Кофе TOREO Espresso Grande зерновой 1000 г,12400.0,4.7,4.0,Other,Other,1000.0,1240.0,12.4,58280.0,4700.0,1.6094379124341003,False,False,False,False,False,True,False
+106127820,Кофе Green Roast Арабика Колумбия зерновой в пакете 500 г,8700.0,4.9,12.0,Other,Other,500.0,1739.9999999999998,17.4,42630.0,2450.0,2.5649493574615367,False,False,False,False,False,True,False
+141671848,Кофе растворимый MOKATE Strong порошковый 17 г,179.0,4.3,3.0,Other,Other,17.0,1052.9411764705883,10.529411764705882,769.6999999999999,73.1,1.3862943611198906,False,False,False,False,False,True,False
+103594591,Кофе Fresco Arabica Barista зерновой в пакете 1000 г,11650.0,4.9,5.0,Other,Other,1000.0,1165.0,11.65,57085.00000000001,4900.0,1.791759469228055,False,False,False,False,False,True,False
+131842092,Кофе Helmut Sachers Kaffee Vienna History Edition зерновой 250 г,5100.0,5.0,17.0,Other,Other,250.0,2039.9999999999998,20.4,25500.0,1250.0,2.8903717578961645,False,False,False,False,False,True,False
+106378443,Кофе Coffeelogia Эфиопия Сидамо 4 зерновой 250 г,4250.0,5.0,7.0,Other,Other,250.0,1700.0,17.0,21250.0,1250.0,2.0794415416798357,False,False,False,False,False,True,False
+105965748,Кофе Paulig Espresso Favorito зерновой в пакете 1000 г,21850.0,5.0,7.0,Other,Other,1000.0,2185.0,21.85,109250.0,5000.0,2.0794415416798357,False,False,False,False,False,True,False
+146995840,Кофе растворимый ЯРКО латте мангоновое порошковый 30 г 1 саше,260.0,0.0,0.0,Other,Other,30.0,866.6666666666666,8.666666666666666,0.0,0.0,0.0,False,False,False,False,False,True,False
+140732216,Кофе растворимый Today espresso сублимированный 150 г,4224.0,4.2,1.0,Other,Other,150.0,2816.0,28.16,17740.8,630.0,0.6931471805599453,False,False,False,False,False,True,False
+106715752,Кофе растворимый Jacobs Barista Edition гранулированный 30 шт по 1.8 г,2904.0,4.9,7.0,Jacobs,Jacobs,8.0,36300.0,363.0,14229.6,39.2,2.0794415416798357,False,True,False,False,False,False,False
+146907254,Кофе растворимый DES латте пломбир порошковый 20 стиков,260.0,5.0,1.0,Other,Other,500.0,52.0,0.52,1300.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+100219012,Кофе Jardin Espresso Di Milano зерновой в пакете 250 г,3750.0,4.5,5.0,Other,Other,250.0,1500.0,15.0,16875.0,1125.0,1.791759469228055,False,False,False,False,False,True,False
+141427502,Кофе Master Coffee Бразилия Тёмная зерновой 1000 г,14990.0,5.0,8.0,Other,Other,1000.0,1499.0,14.99,74950.0,5000.0,2.1972245773362196,False,False,False,False,False,True,False
+132160856,Кофе Grossa Brazil Toffee зерновой 200 г,3800.0,4.7,1.0,Other,Other,200.0,1900.0,19.0,17860.0,940.0,0.6931471805599453,False,False,False,False,False,True,False
+113304973,Кофе Lavazza Caffe Espresso зерновой 2 упаковки по 250 г,8148.0,5.0,20.0,Lavazza,Lavazza,250.0,3259.2,32.592,40740.0,1250.0,3.044522437723423,False,False,True,False,False,False,False
+145890976,Кофе Local coffee Costa-Rica Luis Carlos Picado Montero зерновой 200 г,5000.0,5.0,1.0,Other,Other,200.0,2500.0,25.0,25000.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+101765821,Кофе EGOISTE Grand Cru зерновой в пакете 250 г,5699.0,5.0,7.0,Other,Other,250.0,2279.6,22.796,28495.0,1250.0,2.0794415416798357,False,False,False,False,False,True,False
+146061024,Кофе Local coffee Эфиопия Челчеле гр.1 зерновой 200 г,5000.0,0.0,0.0,Other,Other,200.0,2500.0,25.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+149718792,Кофе Gourmet Colombia Viani зерновой 200 г,2800.0,5.0,1.0,Other,Other,200.0,1400.0,14.0,14000.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+129873987,Кофе Grossa Kenya Kiyunyu AB зерновой 1000 г,16900.0,5.0,7.0,Other,Other,1000.0,1689.9999999999998,16.9,84500.0,5000.0,2.0794415416798357,False,False,False,False,False,True,False
+146995916,Кофе растворимый ЯРКО раф сырновый порошковый 30 г 1 саше,260.0,4.3,2.0,Other,Other,30.0,866.6666666666666,8.666666666666666,1118.0,129.0,1.0986122886681098,False,False,False,False,False,True,False
+147703913,Кофе Massimo Coffee Kenya Gatina AA зерновой 250 г,9350.0,5.0,1.0,Other,Other,250.0,3740.0,37.4,46750.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+106499808,Кофе Lavazza Crema Gusto зерновой 1000 г,15000.0,4.7,14.0,Lavazza,Lavazza,1000.0,1500.0,15.0,70500.0,4700.0,2.70805020110221,False,False,True,False,False,False,False
+132160865,Кофе Grossa China Puer зерновой 200 г,8150.0,4.0,2.0,Other,Other,200.0,4075.0,40.75,32600.0,800.0,1.0986122886681098,False,False,False,False,False,True,False
+102928934,Кофе Guten berg зерновой ароматизированный Черри бренди в пакете 1 кг,18190.0,4.7,2.0,Other,Other,500.0,3638.0000000000005,36.38,85493.0,2350.0,1.0986122886681098,False,False,False,False,False,True,False
+145890970,Кофе Local coffee Indonesia Sumatra Lintong Blue Batak Bumbu зерновой 200 г,5000.0,0.0,0.0,Other,Other,200.0,2500.0,25.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+103541941,Кофе Grossa Peru MCM SHG зерновой в пакете 1000 г,14800.0,4.7,10.0,Other,Other,1000.0,1480.0,14.8,69560.0,4700.0,2.3978952727983707,False,False,False,False,False,True,False
+121230330,Кофе Local coffee Columbia Supremo зерновой 250 г,4100.0,5.0,2.0,Other,Other,250.0,1639.9999999999998,16.4,20500.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+142993404,Кофе Kimbo Espresso Napoletano зерновой 1000 г,12769.0,5.0,1.0,Other,Other,1000.0,1276.9,12.769,63845.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+103790658,Кофе растворимый Fresco Platti сублимированный 75 г,1739.0,4.7,4.0,Other,Other,75.0,2318.666666666667,23.186666666666667,8173.3,352.5,1.6094379124341003,False,False,False,False,False,True,False
+134175350,Кофе Sunday Coffee Costa Rica зерновой 500 г,10200.0,5.0,4.0,Other,Other,500.0,2039.9999999999998,20.4,51000.0,2500.0,1.6094379124341003,False,False,False,False,False,True,False
+105933709,Кофе растворимый Jacobs Asian Selection сублимированный 90 г,3245.0,4.9,15.0,Jacobs,Jacobs,90.0,3605.5555555555557,36.05555555555556,15900.500000000002,441.00000000000006,2.772588722239781,False,True,False,False,False,False,False
+117236006,Кофе Alta Roma Blend №8 зерновой 1000 г,13200.0,4.9,6.0,Other,Other,1000.0,1320.0,13.2,64680.00000000001,4900.0,1.9459101490553132,False,False,False,False,False,True,False
+106489247,Кофе Kurukahveci Mehmet Efendi По-турецки зерновой в пакете 500 г,10700.0,4.9,11.0,Other,Other,500.0,2140.0,21.4,52430.00000000001,2450.0,2.4849066497880004,False,False,False,False,False,True,False
+100207973,Кофе растворимый Jardin Guatemala Atitlan сублимированный 95 г,3000.0,4.7,14.0,Other,Other,95.0,3157.894736842105,31.57894736842105,14100.0,446.5,2.70805020110221,False,False,False,False,False,True,False
+106378451,Кофе Coffeelogia Гватемала Фэнси зерновой 1000 г,13750.0,5.0,5.0,Other,Other,1000.0,1375.0,13.75,68750.0,5000.0,1.791759469228055,False,False,False,False,False,True,False
+114805403,Кофе Fresco Arabica Gusto зерновой 200 г,2990.0,4.9,14.0,Other,Other,200.0,1495.0,14.95,14651.000000000002,980.0000000000001,2.70805020110221,False,False,False,False,False,True,False
+134098704,Кофе Coffeelogia Руанда Мушони зерновой 250 г,6400.0,4.7,3.0,Other,Other,250.0,2560.0,25.6,30080.0,1175.0,1.3862943611198906,False,False,False,False,False,True,False
+100826141,Кофе Movenpick Gusto Italiano Caffè Crema зерновой в пакете 1000 г,20468.0,4.9,15.0,Other,Other,1000.0,2046.8,20.468,100293.20000000001,4900.0,2.772588722239781,False,False,False,False,False,True,False
+131600894,Кофе Grossa China Simao Mellow зерновой 1000 г,13550.0,0.0,0.0,Other,Other,1000.0,1355.0,13.55,0.0,0.0,0.0,False,False,False,False,False,True,False
+133280815,Кофе растворимый Der-Franz Instant espresso сублимированный 200 г,8800.0,4.8,12.0,Other,Other,200.0,4400.0,44.0,42240.0,960.0,2.5649493574615367,False,False,False,False,False,True,False
+137484745,Кофе Grossa Miranda зерновой 200 г,2900.0,5.0,3.0,Other,Other,200.0,1450.0,14.5,14500.0,1000.0,1.3862943611198906,False,False,False,False,False,True,False
+105922016,Кофе Green Roast Этажи 90/10 зерновой в пакете 500 г,7100.0,5.0,3.0,Other,Other,500.0,1420.0,14.2,35500.0,2500.0,1.3862943611198906,False,False,False,False,False,True,False
+102929432,Кофе Guten berg зерновой ароматизированный Венские вафли в пакете 250 г,5275.0,5.0,3.0,Other,Other,250.0,2110.0,21.1,26375.0,1250.0,1.3862943611198906,False,False,False,False,False,True,False
+107622825,Кофе растворимый Carte Noire Коллекция сублимированный 3 шт,12273.0,5.0,57.0,Carte,Carte,500.0,2454.6,24.546,61365.0,2500.0,4.060443010546419,True,False,False,False,False,False,False
+103732022,Кофе растворимый Carte Noire Voyage au bresil сублимированный 90 г,4550.0,4.9,11.0,Carte,Carte,90.0,5055.555555555556,50.55555555555556,22295.0,441.00000000000006,2.4849066497880004,True,False,False,False,False,False,False
+132160859,Кофе Grossa Ethiopia Yirgacheffe Gr. 2 зерновой 200 г,4800.0,0.0,0.0,Other,Other,200.0,2400.0,24.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+118796324,Кофе Green Roast Decaff без кофеина зерновой 250 г,5200.0,4.9,15.0,Other,Other,250.0,2080.0,20.8,25480.000000000004,1225.0,2.772588722239781,False,False,False,False,False,True,False
+102935600,Кофе Guten berg Вишня на бурбоне зерновой ароматизированный в пакете 1000 г,18190.0,5.0,2.0,Other,Other,1000.0,1819.0000000000002,18.19,90950.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+107958738,Кофе Sunday Coffee Exclusive зерновой 500 г,7500.0,4.8,12.0,Other,Other,500.0,1500.0,15.0,36000.0,2400.0,2.5649493574615367,False,False,False,False,False,True,False
+117947158,Кофе Coffeelogia Колумбия Декаф зерновой 250 г,5100.0,5.0,4.0,Other,Other,250.0,2039.9999999999998,20.4,25500.0,1250.0,1.6094379124341003,False,False,False,False,False,True,False
+104265167,Кофе растворимый Eilles Kaffee Gourmet гранулированный 100 г,5300.0,4.9,9.0,Other,Other,100.0,5300.0,53.0,25970.000000000004,490.00000000000006,2.302585092994046,False,False,False,False,False,True,False
+142993127,Кофе растворимый PARLIAMENT Senator гранулированный 90 г,1850.0,4.4,2.0,Other,Other,90.0,2055.5555555555557,20.555555555555557,8140.000000000001,396.00000000000006,1.0986122886681098,False,False,False,False,False,True,False
+101765992,Кофе Movenpick Der Himmlische зерновой 1000 г,21148.0,4.8,15.0,Other,Other,1000.0,2114.8,21.148,101510.4,4800.0,2.772588722239781,False,False,False,False,False,True,False
+141671845,Кофе растворимый MOKATE Cappuccino Salted Caramel порошковый 110 г,1490.0,4.7,13.0,Other,Other,110.0,1354.5454545454545,13.545454545454545,7003.0,517.0,2.6390573296152584,False,False,False,False,False,True,False
+132204090,Кофе Helmut Sachers Kaffee Crema зерновой 500 г,8700.0,4.9,7.0,Other,Other,500.0,1739.9999999999998,17.4,42630.0,2450.0,2.0794415416798357,False,False,False,False,False,True,False
+103023298,Кофе Sunrise Coffee Brazil зерновой в пакете 1000 г,15000.0,4.9,14.0,Other,Other,1000.0,1500.0,15.0,73500.0,4900.0,2.70805020110221,False,False,False,False,False,True,False
+145423504,Кофе Coffeelogia Танзания Эдельвейс зерновой 1000 г,17400.0,0.0,0.0,Other,Other,1000.0,1739.9999999999998,17.4,0.0,0.0,0.0,False,False,False,False,False,True,False
+106167949,Кофе Tasty Coffee Эспрессо-смесь Кэнди зерновой в пакете 1000 г,22529.0,5.0,6.0,Other,Other,1000.0,2252.9,22.529,112645.0,5000.0,1.9459101490553132,False,False,False,False,False,True,False
+148485019,Кофе Gutenberg Айришкрим зерновой 1000 г,18190.0,0.0,0.0,Other,Other,1000.0,1819.0000000000002,18.19,0.0,0.0,0.0,False,False,False,False,False,True,False
+146061309,Кофе Local coffee Эфиопия Адола гр.1 (filter) зерновой 200 г,5500.0,5.0,1.0,Other,Other,200.0,2750.0,27.5,27500.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+133280938,Кофе растворимый Der-Franz Instant crema сублимированный 200 г,8900.0,4.9,11.0,Other,Other,200.0,4450.0,44.5,43610.0,980.0000000000001,2.4849066497880004,False,False,False,False,False,True,False
+142993200,Кофе Kimbo Espresso Napoletano зерновой 250 г,4600.0,5.0,1.0,Other,Other,250.0,1839.9999999999998,18.4,23000.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+100208032,Кофе растворимый NESCAFE Gold сублимированный 130 г,3775.0,4.9,14.0,NESCAFE,NESCAFE,130.0,2903.846153846154,29.03846153846154,18497.5,637.0,2.70805020110221,False,False,False,False,True,False,False
+100208006,Кофе растворимый NESCAFE Gold Barista сублимированный 75 г,2757.0,4.9,11.0,NESCAFE,NESCAFE,75.0,3676.0,36.76,13509.300000000001,367.5,2.4849066497880004,False,False,False,False,True,False,False
+109895062,Кофе растворимый Carte Noire White Coffee сублимированный 17.4 г,215.0,4.9,13.0,Carte,Carte,4.0,5375.0,53.75,1053.5,19.6,2.6390573296152584,True,False,False,False,False,False,False
+130059664,Кофе растворимый NESCAFE Plombir Latte порошковый 15 г,145.0,4.9,7.0,NESCAFE,NESCAFE,15.0,966.6666666666666,9.666666666666666,710.5,73.5,2.0794415416798357,False,False,False,False,True,False,False
+100984055,Кофе растворимый Carte Noire Original сублимированный 75 г,4250.0,5.0,39.0,Carte,Carte,75.0,5666.666666666666,56.666666666666664,21250.0,375.0,3.6888794541139363,True,False,False,False,False,False,False
+102153121,Кофе растворимый Carte Noire Original сублимированный 190 г,8600.0,5.0,70.0,Carte,Carte,190.0,4526.315789473684,45.26315789473684,43000.0,950.0,4.2626798770413155,True,False,False,False,False,False,False
+102152838,Кофе растворимый NESCAFE classic сублимированный 130 г,2800.0,4.8,16.0,NESCAFE,NESCAFE,130.0,2153.846153846154,21.53846153846154,13440.0,624.0,2.833213344056216,False,False,False,False,True,False,False
+100207978,Кофе растворимый Jardin Colombia Medellin сублимированный 95 г,2555.0,4.9,22.0,Other,Other,95.0,2689.4736842105262,26.894736842105264,12519.5,465.50000000000006,3.1354942159291497,False,False,False,False,False,True,False
+100207956,Кофе растворимый MacCoffee Gold сублимированный 75 г,1655.0,4.9,6.0,MacCoffee,MacCoffee,75.0,2206.6666666666665,22.066666666666666,8109.500000000001,367.5,1.9459101490553132,False,False,False,True,False,False,False
+105072368,Кофе растворимый MacCoffee Gold Latte сублимированный 16 г,116.0,4.9,11.0,MacCoffee,MacCoffee,16.0,725.0,7.25,568.4000000000001,78.4,2.4849066497880004,False,False,False,True,False,False,False
+100208017,Кофе растворимый NESCAFE Gold сублимированный 40 г,1540.0,5.0,10.0,NESCAFE,NESCAFE,40.0,3850.0,38.5,7700.0,200.0,2.3978952727983707,False,False,False,False,True,False,False
+100208038,Кофе растворимый NESCAFE Gold сублимированный 190 г,5005.0,4.8,14.0,NESCAFE,NESCAFE,190.0,2634.2105263157896,26.342105263157894,24024.0,912.0,2.70805020110221,False,False,False,False,True,False,False
+103560855,Кофе Grossa Ethiopia Yirgacheffe Gr. 2 зерновой арабика 1000 г,18000.0,4.9,4.0,Other,Other,1000.0,1800.0,18.0,88200.0,4900.0,1.6094379124341003,False,False,False,False,False,True,False
+101141433,Кофе Lavazza Tierra Colombia зерновой в пакете 1 кг,28649.0,4.9,49.0,Lavazza,Lavazza,500.0,5729.8,57.298,140380.1,2450.0,3.912023005428146,False,False,True,False,False,False,False
+117946980,Кофе Coffeelogia Персиковый брауни Бленд зерновой 1000 г,12350.0,5.0,2.0,Other,Other,1000.0,1235.0,12.35,61750.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+102243000,Кофе растворимый Fresco Arabica Solo сублимированный 75 г,1799.0,4.8,8.0,Other,Other,75.0,2398.666666666667,23.986666666666668,8635.199999999999,360.0,2.1972245773362196,False,False,False,False,False,True,False
+103695323,Кофе растворимый Maxwell House Rich Blend сублимированный 150 г,3655.0,4.7,15.0,Other,Other,150.0,2436.6666666666665,24.366666666666667,17178.5,705.0,2.772588722239781,False,False,False,False,False,True,False
+129874348,Кофе Grossa Salvador Los Luchadores зерновой 1000 г,13400.0,5.0,2.0,Other,Other,1000.0,1340.0,13.4,67000.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+134099325,Кофе Coffeelogia Бурунди Кибинго Хани зерновой 1000 г,19850.0,5.0,1.0,Other,Other,1000.0,1985.0000000000002,19.85,99250.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+100773450,Кофе Miele Black Edition Cafe Crema зерновой 4 пакета по 250 г,31000.0,4.8,3.0,Other,Other,250.0,12400.0,124.0,148800.0,1200.0,1.3862943611198906,False,False,False,False,False,True,False
+106377397,Кофе Coffeelogia Эфиопия Сидамо 4 зерновой 500 г,7500.0,4.6,8.0,Other,Other,500.0,1500.0,15.0,34500.0,2300.0,2.1972245773362196,False,False,False,False,False,True,False
+101147621,Кофе растворимый EGOISTE Velvet сублимированный 95 г,9349.0,5.0,15.0,Other,Other,95.0,9841.052631578947,98.41052631578947,46745.0,475.0,2.772588722239781,False,False,False,False,False,True,False
+142783710,Кофе AYAT AZIMOV COFFEE Caspian Blend зерновой 250 г,3950.0,4.0,1.0,Other,Other,250.0,1580.0,15.8,15800.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+101141263,Кофе illy Monoarabica Ethiopia зерновой в банке 250 г,9523.0,5.0,5.0,Other,Other,250.0,3809.2,38.092,47615.0,1250.0,1.791759469228055,False,False,False,False,False,True,False
+100760719,Кофе Delonghi Kimbo Classic в пакете зерновой 1000 г,19890.0,5.0,11.0,Other,Other,1000.0,1989.0,19.89,99450.0,5000.0,2.4849066497880004,False,False,False,False,False,True,False
+102505901,Кофе Guten Berg Бразилия Желтый Бурбон зерновой в пакете 250 г,5500.0,5.0,1.0,Other,Other,250.0,2200.0,22.0,27500.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+133151486,Кофе Kimbo DeLonghi Espresso Arabica зерновой 1000 г,19890.0,4.9,10.0,Other,Other,1000.0,1989.0,19.89,97461.0,4900.0,2.3978952727983707,False,False,False,False,False,True,False
+108178487,Кофе Coffeelogia Гватемала Декаф зерновой 500 г,9200.0,5.0,2.0,Other,Other,500.0,1839.9999999999998,18.4,46000.0,2500.0,1.0986122886681098,False,False,False,False,False,True,False
+117947119,Кофе Coffeelogia Колумбия Декаф зерновой 1000 г,15600.0,5.0,2.0,Other,Other,1000.0,1560.0,15.6,78000.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+106378373,Кофе Coffeelogia Эфиопия Сидамо 4 зерновой 1000 г,13000.0,5.0,3.0,Other,Other,1000.0,1300.0,13.0,65000.0,5000.0,1.3862943611198906,False,False,False,False,False,True,False
+106728022,Кофе растворимый Carte Noire Original гранулированный 30 шт по 1.8 г,2850.0,5.0,11.0,Carte,Carte,8.0,35625.0,356.25,14250.0,40.0,2.4849066497880004,True,False,False,False,False,False,False
+102261082,Кофе растворимый Maxwell House Rich Blend сублимированный 200 г,5422.0,4.7,6.0,Other,Other,200.0,2711.0,27.11,25483.4,940.0,1.9459101490553132,False,False,False,False,False,True,False
+122799255,Кофе растворимый MacCoffee Cappuccino Di Torino с шоколадной крошкой порошковый 20 пакетиков,4000.0,4.8,11.0,MacCoffee,MacCoffee,500.0,800.0,8.0,19200.0,2400.0,2.4849066497880004,False,False,False,True,False,False,False
+102010034,Холодный кофе Jacobs Icepresso Latte 250 мл,825.0,4.7,11.0,Jacobs,Jacobs,250.0,330.0,3.3,3877.5,1175.0,2.4849066497880004,False,True,False,False,False,False,False
+108082603,Кофе растворимый Cafe Creme Product of brazil сублимированный 45 г,1535.0,4.5,13.0,Other,Other,45.0,3411.1111111111113,34.111111111111114,6907.5,202.5,2.6390573296152584,False,False,False,False,False,True,False
+116117944,Кофе Coffeelogia Изюм и Шоколад Бленд зерновой 1000 г,12350.0,5.0,3.0,Other,Other,1000.0,1235.0,12.35,61750.0,5000.0,1.3862943611198906,False,False,False,False,False,True,False
+148864522,Кофе растворимый DES Капучино с ирландским кремом порошковый 20 стиков,260.0,0.0,0.0,Other,Other,500.0,52.0,0.52,0.0,0.0,0.0,False,False,False,False,False,True,False
+117702254,Кофе растворимый Maxim White Gold сублимированный 170 пакетиков,22880.0,0.0,0.0,Other,Other,500.0,4576.0,45.76,0.0,0.0,0.0,False,False,False,False,False,True,False
+150083891,Кофе Tasty Coffee Milk Coffee Хани зерновой 1000 г,22989.0,5.0,0.0,Other,Other,1000.0,2298.9,22.989,114945.0,5000.0,0.0,False,False,False,False,False,True,False
+151117426,Кофе Serikov Coffee Коста Рика Луис Карлос Пикардо (лактик) зерновой 200 г,5600.0,0.0,0.0,Other,Other,200.0,2800.0,28.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+150034091,Кофе Molinari Intenso зерновой 250 г,7775.0,0.0,0.0,Other,Other,250.0,3110.0,31.1,0.0,0.0,0.0,False,False,False,False,False,True,False
+149718788,Кофе Gourmet Kenya AA Muranga зерновой 200 г,2900.0,0.0,0.0,Other,Other,200.0,1450.0,14.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+105026801,Кофе TEMPELMANN Nomos зерновой 500 г,10450.0,4.3,3.0,Other,Other,500.0,2090.0,20.9,44935.0,2150.0,1.3862943611198906,False,False,False,False,False,True,False
+141634171,Кофе Segafredo Sinfonia зерновой 1000 г,17600.0,0.0,0.0,Other,Other,1000.0,1760.0000000000002,17.6,0.0,0.0,0.0,False,False,False,False,False,True,False
+145116626,Кофе Grossa Uganda Bugisu AA зерновой 1000 г,16900.0,5.0,1.0,Other,Other,1000.0,1689.9999999999998,16.9,84500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+141881272,Кофе Alta Roma Crema зерновой 6 упаковок по 1000 г,66690.0,0.0,0.0,Other,Other,1000.0,6669.0,66.69,0.0,0.0,0.0,False,False,False,False,False,True,False
+108733757,Кофе Gimoka Dulcis Vitae зерновой 1000 г,16989.0,5.0,2.0,Other,Other,1000.0,1698.9,16.989,84945.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+117016291,Кофе Pelican Rouge Fleuve зерновой 1000 г,12900.0,4.9,3.0,Other,Other,1000.0,1290.0,12.9,63210.00000000001,4900.0,1.3862943611198906,False,False,False,False,False,True,False
+132414848,Кофе Der Franz Colombia зерновой 500 г,7900.0,5.0,0.0,Other,Other,500.0,1580.0,15.8,39500.0,2500.0,0.0,False,False,False,False,False,True,False
+147074172,Кофе Coffeelogia Китай Гулаиванг Натурал зерновой 1000 г,15100.0,5.0,1.0,Other,Other,1000.0,1510.0,15.1,75500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+109999903,Кофе Caffe Vergnano Espresso зерновой 1000 г,21789.0,5.0,6.0,Other,Other,1000.0,2178.9,21.789,108945.0,5000.0,1.9459101490553132,False,False,False,False,False,True,False
+103140845,Кофе Guten berg Коста Рика Де Тараццу зерновой арабика 250 г,5160.0,0.0,0.0,Other,Other,250.0,2064.0,20.64,0.0,0.0,0.0,False,False,False,False,False,True,False
+145890678,Кофе Master Coffee Колумбия Эль Вергель твист для фильтра зерновой 250 г,7490.0,5.0,1.0,Other,Other,250.0,2996.0,29.96,37450.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+107499999,Кофе Fresco Arabica Espresso зерновой 200 г,2989.0,4.8,3.0,Other,Other,200.0,1494.5,14.945,14347.199999999999,960.0,1.3862943611198906,False,False,False,False,False,True,False
+119377554,Кофе Coffeelogia Эфиопия Сидамо Грейд 2 зерновой 1000 г,14200.0,5.0,2.0,Other,Other,1000.0,1420.0,14.2,71000.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+132160871,Кофе Grossa Mexico Las Chicharras зерновой 200 г,4000.0,5.0,2.0,Other,Other,200.0,2000.0,20.0,20000.0,1000.0,1.0986122886681098,False,False,False,False,False,True,False
+103560861,Кофе Grossa Ferina зерновой арабика 1000 г,12500.0,5.0,1.0,Other,Other,1000.0,1250.0,12.5,62500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+108322846,Guten Berg Кофе в зёрнах ароматизированный &#34;Капучино&#34; 250г,5275.0,5.0,1.0,Other,Other,250.0,2110.0,21.1,26375.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+146995901,Кофе растворимый ЯРКО латте вишневое порошковый 30 г 1 саше,260.0,0.0,0.0,Other,Other,30.0,866.6666666666666,8.666666666666666,0.0,0.0,0.0,False,False,False,False,False,True,False
+108799550,Кофе Sunday Coffee Special зерновой 500 г,9500.0,4.8,2.0,Other,Other,500.0,1900.0,19.0,45600.0,2400.0,1.0986122886681098,False,False,False,False,False,True,False
+100826183,Кофе Kimbo Aroma Gold 100% Arabica зерновой в пакете 500 г,9989.0,5.0,18.0,Other,Other,500.0,1997.8000000000002,19.978,49945.0,2500.0,2.9444389791664403,False,False,False,False,False,True,False
+144022113,Кофе Coffeelogia Для гурманов зерновой 4 упаковки по 100 г,7300.0,5.0,3.0,Other,Other,100.0,7300.0,73.0,36500.0,500.0,1.3862943611198906,False,False,False,False,False,True,False
+149454724,Кофе растворимый Maximus Gold Collection сублимированный 95 г,2640.0,0.0,0.0,Other,Other,95.0,2778.947368421053,27.789473684210527,0.0,0.0,0.0,False,False,False,False,False,True,False
+150174545,Кофе растворимый DeMarco Gold сублимированный 500 г,12990.0,0.0,0.0,Other,Other,500.0,2598.0,25.98,0.0,0.0,0.0,False,False,False,False,False,True,False
+150250299,Кофе растворимый Goldbach Tradition сублимированный 200 г,7290.0,0.0,0.0,Other,Other,200.0,3645.0000000000005,36.45,0.0,0.0,0.0,False,False,False,False,False,True,False
+149454869,Кофе растворимый Maximus Columbian сублимированный 95 г,2640.0,0.0,0.0,Other,Other,95.0,2778.947368421053,27.789473684210527,0.0,0.0,0.0,False,False,False,False,False,True,False
+150250037,Кофе растворимый Goldbach Prestige сублимированный 200 г,7990.0,0.0,0.0,Other,Other,200.0,3995.0000000000005,39.95,0.0,0.0,0.0,False,False,False,False,False,True,False
+150174601,Кофе растворимый DeMarco Classic сублимированный 500 г,12215.0,0.0,0.0,Other,Other,500.0,2443.0,24.43,0.0,0.0,0.0,False,False,False,False,False,True,False
+150733728,Кофе растворимый Trung Nguyen Legend Cappuccino Hazelnut порошковый 12 пакетиков,3220.0,0.0,0.0,Other,Other,500.0,644.0,6.44,0.0,0.0,0.0,False,False,False,False,False,True,False
+151476899,Кофе растворимый Сибирский кедр c мускатом порошковый 120 г,2300.0,0.0,0.0,Other,Other,120.0,1916.6666666666667,19.166666666666668,0.0,0.0,0.0,False,False,False,False,False,True,False
+150250043,Кофе растворимый Goldbach Crema порошковый 150 г,6590.0,0.0,0.0,Other,Other,150.0,4393.333333333333,43.93333333333333,0.0,0.0,0.0,False,False,False,False,False,True,False
+150733830,Кофе растворимый Trung Nguyen Legend Cappuccino Coconut порошковый 12 пакетиков,3220.0,0.0,0.0,Other,Other,500.0,644.0,6.44,0.0,0.0,0.0,False,False,False,False,False,True,False
+150993198,Кофе растворимый Maxim Mocha Gold Mild сублимированный 2160 г,26365.0,0.0,0.0,Other,Other,2160.0,1220.601851851852,12.206018518518519,0.0,0.0,0.0,False,False,False,False,False,True,False
+106377368,Кофе Coffeelogia Кремо Бленд зерновой 500 г,7100.0,5.0,4.0,Other,Other,500.0,1420.0,14.2,35500.0,2500.0,1.6094379124341003,False,False,False,False,False,True,False
+142052751,Кофе Tris Caffe napoletano зерновой 1000 г,12000.0,0.0,0.0,Other,Other,1000.0,1200.0,12.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+134244184,Кофе Atyrau Coffee Roasters Бразилия зерновой 500 г,7670.0,5.0,0.0,Other,Other,500.0,1534.0,15.34,38350.0,2500.0,0.0,False,False,False,False,False,True,False
+142993977,Кофе DeMarco Vending зерновой 1000 г,12970.0,5.0,0.0,Other,Other,1000.0,1297.0,12.97,64850.0,5000.0,0.0,False,False,False,False,False,True,False
+147074335,Кофе Coffeelogia Китай Гулаиванг Натурал зерновой 250 г,4950.0,5.0,0.0,Other,Other,250.0,1980.0,19.8,24750.0,1250.0,0.0,False,False,False,False,False,True,False
+137597113,Кофе Caffe Vero Crema Bar зерновой 1000 г,16000.0,5.0,1.0,Other,Other,1000.0,1600.0,16.0,80000.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+101141159,Кофе Paulig Espresso Originale зерновой в пакете 1000 г,21849.0,5.0,7.0,Other,Other,1000.0,2184.9,21.849,109245.0,5000.0,2.0794415416798357,False,False,False,False,False,True,False
+140587183,Кофе BAZZARA Panasiatica зерновой 250 г,9950.0,5.0,1.0,Other,Other,250.0,3979.9999999999995,39.8,49750.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+141881221,Кофе Alta Roma Blend №3 зерновой 2 упаковки по 1000 г,33840.0,0.0,0.0,Other,Other,1000.0,3384.0000000000005,33.84,0.0,0.0,0.0,False,False,False,False,False,True,False
+132204122,Кофе Helmut Sachers Kaffee Baristo Straight зерновой 1000 г,17100.0,4.0,0.0,Other,Other,1000.0,1710.0000000000002,17.1,68400.0,4000.0,0.0,False,False,False,False,False,True,False
+147074148,Кофе Coffeelogia Панама SHB Бокете зерновой 250 г,5400.0,0.0,0.0,Other,Other,250.0,2160.0,21.6,0.0,0.0,0.0,False,False,False,False,False,True,False
+117089434,Кофе Coffeelogia Конго Киву зерновой 500 г,9050.0,5.0,3.0,Other,Other,500.0,1810.0000000000002,18.1,45250.0,2500.0,1.3862943611198906,False,False,False,False,False,True,False
+145423664,Кофе Coffeelogia Танзания Эдельвейс зерновой 500 г,10050.0,4.5,1.0,Other,Other,500.0,2010.0000000000002,20.1,45225.0,2250.0,0.6931471805599453,False,False,False,False,False,True,False
+115685462,Кофе Local coffee для фильтра Columbia supremo зерновой 1000 г,14000.0,5.0,1.0,Other,Other,1000.0,1400.0,14.0,70000.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+132687144,Кофе Der Franz Cinnamon зерновой 500 г,8000.0,5.0,1.0,Other,Other,500.0,1600.0,16.0,40000.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+132613878,Кофе Helmut Sachers Kaffee Der-Franz Flavored Coffee-Hazelnut зерновой 500 г,8000.0,3.7,2.0,Other,Other,500.0,1600.0,16.0,29600.0,1850.0,1.0986122886681098,False,False,False,False,False,True,False
+142845253,Кофе Cuppello Айришкрим зерновой 1000 г,16500.0,5.0,1.0,Other,Other,1000.0,1650.0,16.5,82500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+105026803,Кофе TEMPELMANN Nomos Caffe Crema зерновой 500 г,10449.0,5.0,1.0,Other,Other,500.0,2089.8,20.898,52245.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+147833074,Кофе Gutenberg Моцарт зерновой 1000 г,18190.0,0.0,0.0,Other,Other,1000.0,1819.0000000000002,18.19,0.0,0.0,0.0,False,False,False,False,False,True,False
+131267845,Кофе Covim Honduras BIO зерновой 500 г,10700.0,5.0,1.0,Other,Other,500.0,2140.0,21.4,53500.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+132012865,Кофе Helmut Sachers Kaffee Home Line-Espresso зерновой 500 г,8500.0,5.0,1.0,Other,Other,500.0,1700.0,17.0,42500.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+130748200,Кофе Fresh Coffee Бразилия Альфенас Дульче зерновой 1000 г,13860.0,5.0,2.0,Other,Other,1000.0,1386.0,13.86,69300.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+123596053,Кофе Coffeelogia Руанда Кияхинда зерновой 250 г,4500.0,5.0,1.0,Other,Other,250.0,1800.0,18.0,22500.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+103434470,Кофе растворимый MacCoffee Arabica сублимированный 75 г,2202.0,4.9,8.0,MacCoffee,MacCoffee,75.0,2936.0,29.36,10789.800000000001,367.5,2.1972245773362196,False,False,False,True,False,False,False
+102939186,Кофе растворимый Jacobs latte original 3 в 1 порошковый 21 г,189.0,4.0,1.0,Jacobs,Jacobs,21.0,900.0,9.0,756.0,84.0,0.6931471805599453,False,True,False,False,False,False,False
+100208015,Кофе растворимый NESCAFE Classic порошковый 47.5 г,1675.0,4.9,15.0,NESCAFE,NESCAFE,5.0,33500.0,335.0,8207.5,24.5,2.772588722239781,False,False,False,False,True,False,False
+103455905,Кофе растворимый NESCAFE Classic порошковый 320 г,6399.0,4.8,20.0,NESCAFE,NESCAFE,320.0,1999.6875,19.996875,30715.199999999997,1536.0,3.044522437723423,False,False,False,False,True,False,False
+106727962,Кофе растворимый Jacobs Latte порошковый 24 шт по 13 г,2323.0,4.8,26.0,Jacobs,Jacobs,13.0,17869.23076923077,178.69230769230768,11150.4,62.4,3.295836866004329,False,True,False,False,False,False,False
+122577398,Кофе растворимый Jacobs Velvet сублимированный 95 г,1999.0,5.0,89.0,Jacobs,Jacobs,95.0,2104.210526315789,21.042105263157893,9995.0,475.0,4.499809670330265,False,True,False,False,False,False,False
+100219097,Кофе Jacobs Monarch Классический зерновой 800 г,10555.0,4.9,60.0,Jacobs,Jacobs,800.0,1319.375,13.19375,51719.50000000001,3920.0000000000005,4.110873864173311,False,True,False,False,False,False,False
+129338693,Кофе растворимый NESCAFE Alta Rica сублимированный 85 г,2259.0,4.8,13.0,NESCAFE,NESCAFE,85.0,2657.6470588235297,26.576470588235296,10843.199999999999,408.0,2.6390573296152584,False,False,False,False,True,False,False
+145300202,Кофе растворимый Maxwell House The Original порошковый 25 шт 450 г,2049.0,4.6,10.0,Other,Other,450.0,455.33333333333337,4.553333333333334,9425.4,2070.0,2.3978952727983707,False,False,False,False,False,True,False
+116157309,Кофе растворимый Jardin Mocaccino сублимированный 18 г,180.0,4.9,9.0,Other,Other,18.0,1000.0,10.0,882.0000000000001,88.2,2.302585092994046,False,False,False,False,False,True,False
+100208049,Кофе растворимый Jacobs Monarch сублимированный 190 г,5918.0,5.0,25.0,Jacobs,Jacobs,190.0,3114.7368421052633,31.147368421052633,29590.0,950.0,3.258096538021482,False,True,False,False,False,False,False
+105074428,Кофе растворимый BUSHIDO Original сублимированный 100 г,7000.0,4.9,100.0,Bushido,Bushido,100.0,7000.0,70.0,34300.0,490.00000000000006,4.61512051684126,False,False,False,False,False,False,False
+119377562,Кофе Coffeelogia Эфиопия Сидамо Грейд 2 зерновой 500 г,8200.0,5.0,1.0,Other,Other,500.0,1639.9999999999998,16.4,41000.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+132160898,Кофе Grossa Colombia El Bandido зерновой 200 г,4250.0,5.0,0.0,Other,Other,200.0,2125.0,21.25,21250.0,1000.0,0.0,False,False,False,False,False,True,False
+102933448,Кофе Guten berg ароматизированный грильяж зерновой в пакете 250 г,5275.0,5.0,1.0,Other,Other,250.0,2110.0,21.1,26375.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+132160874,Кофе Grossa Cuba Serrano Lavado зерновой 200 г,4050.0,5.0,0.0,Other,Other,200.0,2025.0,20.25,20250.0,1000.0,0.0,False,False,False,False,False,True,False
+102928695,Кофе Guten berg зерновой ароматизированный Нуга в пакете 1 кг,18190.0,5.0,1.0,Other,Other,500.0,3638.0000000000005,36.38,90950.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+114017331,Кофе EGOISTE Voyage зерновой 1000 г,20749.0,4.9,9.0,Other,Other,1000.0,2074.9,20.749,101670.1,4900.0,2.302585092994046,False,False,False,False,False,True,False
+120498040,Холодный кофе OKF always good 240 мл,710.0,4.8,2.0,Other,Other,240.0,295.83333333333337,2.9583333333333335,3408.0,1152.0,1.0986122886681098,False,False,False,False,False,True,False
+105034008,Кофе Movenpick Gusto Italiano Crema Intensa зерновой 1000 г,20470.0,5.0,5.0,Other,Other,1000.0,2047.0,20.47,102350.0,5000.0,1.791759469228055,False,False,False,False,False,True,False
+146906886,Кофе растворимый DES капучино пряный апельсин порошковый,260.0,5.0,0.0,Other,Other,500.0,52.0,0.52,1300.0,2500.0,0.0,False,False,False,False,False,True,False
+132160873,Кофе Grossa China Simao Mellow зерновой 200 г,3750.0,0.0,0.0,Other,Other,200.0,1875.0,18.75,0.0,0.0,0.0,False,False,False,False,False,True,False
+132224803,Кофе Der Franz Espresso зерновой 500 г,7500.0,4.9,3.0,Other,Other,500.0,1500.0,15.0,36750.0,2450.0,1.3862943611198906,False,False,False,False,False,True,False
+148183438,Кофе Gutenberg Верона зерновой 1000 г,17500.0,0.0,0.0,Other,Other,1000.0,1750.0,17.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+138611677,Кофе Coffeelogia Никарагуа Лос Суенос зерновой 500 г,8450.0,5.0,1.0,Other,Other,500.0,1689.9999999999998,16.9,42250.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+135688895,Кофе Tasty Coffee Руанда Киву зерновой 1000 г,22989.0,5.0,0.0,Other,Other,1000.0,2298.9,22.989,114945.0,5000.0,0.0,False,False,False,False,False,True,False
+142168120,Кофе AYAT AZIMOV COFFEE Fuji Blend зерновой 1000 г,13150.0,0.0,0.0,Other,Other,1000.0,1315.0,13.15,0.0,0.0,0.0,False,False,False,False,False,True,False
+103924927,Кофе растворимый Fresco Arabica Solo сублимированный 100 г,2960.0,4.7,2.0,Other,Other,100.0,2960.0,29.6,13912.0,470.0,1.0986122886681098,False,False,False,False,False,True,False
+105106481,Кофе Kimbo Caffe Crema Classico зерновой 1000 г,17890.0,4.9,10.0,Other,Other,1000.0,1789.0,17.89,87661.0,4900.0,2.3978952727983707,False,False,False,False,False,True,False
+132643879,Кофе Der Franz Vanilla зерновой 500 г,8000.0,5.0,2.0,Other,Other,500.0,1600.0,16.0,40000.0,2500.0,1.0986122886681098,False,False,False,False,False,True,False
+132160870,Кофе Grossa Nicaragua Las Morenitas зерновой 200 г,3800.0,3.5,1.0,Other,Other,200.0,1900.0,19.0,13300.0,700.0,0.6931471805599453,False,False,False,False,False,True,False
+150186891,Кофе rockets.coffee Filter Coffee Colombia La Delfita зерновой 250 г,7400.0,0.0,0.0,Other,Other,250.0,2960.0,29.6,0.0,0.0,0.0,False,False,False,False,False,True,False
+150186986,Кофе rockets.coffee Filter Coffee Honduras Aquiello Martinez зерновой 250 г,7065.0,0.0,0.0,Other,Other,250.0,2826.0,28.26,0.0,0.0,0.0,False,False,False,False,False,True,False
+151117615,Кофе Serikov Coffee Индонезия Блю Батак зерновой 200 г,5000.0,0.0,0.0,Other,Other,200.0,2500.0,25.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+150436379,Кофе Gourmet Nicaragua Monte Cristo зерновой 200 г,3300.0,0.0,0.0,Other,Other,200.0,1650.0,16.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+142995093,Кофе DeMarco Classic зерновой 1000 г,15690.0,0.0,0.0,Other,Other,1000.0,1569.0,15.69,0.0,0.0,0.0,False,False,False,False,False,True,False
+150950758,Кофе Massimo Coffee La Onda зерновой 250 г,9350.0,0.0,0.0,Other,Other,250.0,3740.0,37.4,0.0,0.0,0.0,False,False,False,False,False,True,False
+150928744,Кофе Massimo Coffee El Paraiso Geisha зерновой 250 г,21000.0,0.0,0.0,Other,Other,250.0,8400.0,84.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+150186928,Кофе rockets.coffee Filter Coffee Costa Rica Don Eli зерновой 250 г,7595.0,0.0,0.0,Other,Other,250.0,3038.0,30.38,0.0,0.0,0.0,False,False,False,False,False,True,False
+150187008,Кофе rockets.coffee Filter Coffee Ethiopia Gore-Geisha зерновой 250 г,7790.0,0.0,0.0,Other,Other,250.0,3116.0,31.16,0.0,0.0,0.0,False,False,False,False,False,True,False
+150175310,Кофе rockets.coffee Filter Coffee Mara Lolgorien зерновой 250 г,8050.0,0.0,0.0,Other,Other,250.0,3220.0000000000005,32.2,0.0,0.0,0.0,False,False,False,False,False,True,False
+150106933,Кофе Tasty Coffee Espresso Coffee Индонезия Ява Атик зерновой 1000 г,24349.0,0.0,0.0,Other,Other,1000.0,2434.9,24.349,0.0,0.0,0.0,False,False,False,False,False,True,False
+151143732,Кофе Бар Сервис Бразилия Моджиана эспрессо зерновой 1000 г,12500.0,0.0,0.0,Other,Other,1000.0,1250.0,12.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+150106943,Кофе Tasty Coffee Espresso Coffee Руанда Кигали зерновой 1000 г,22989.0,0.0,0.0,Other,Other,1000.0,2298.9,22.989,0.0,0.0,0.0,False,False,False,False,False,True,False
+150109920,Кофе Tasty Coffee Кения Найроби зерновой 1000 г,25279.0,0.0,0.0,Other,Other,1000.0,2527.9,25.279,0.0,0.0,0.0,False,False,False,False,False,True,False
+151551828,Кофе Московская кофейня на паяхъ Коломбо зерновой 250 г,3990.0,0.0,0.0,Other,Other,250.0,1596.0,15.96,0.0,0.0,0.0,False,False,False,False,False,True,False
+151551788,Кофе Московская кофейня на паяхъ Мокко зерновой 250 г,3990.0,0.0,0.0,Other,Other,250.0,1596.0,15.96,0.0,0.0,0.0,False,False,False,False,False,True,False
+150250100,Кофе Chicco D'oro India зерновой 250 г,7690.0,0.0,0.0,Other,Other,250.0,3076.0,30.76,0.0,0.0,0.0,False,False,False,False,False,True,False
+149948765,Кофе Local coffee Уганда Ньябиронго А зерновой 200 г,5000.0,0.0,0.0,Other,Other,200.0,2500.0,25.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+149718789,Кофе Gourmet Ethiopia Haru G1 зерновой 200 г,3900.0,0.0,0.0,Other,Other,200.0,1950.0,19.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+150250064,Кофе Chicco D'oro Peru зерновой 250 г,7690.0,0.0,0.0,Other,Other,250.0,3076.0,30.76,0.0,0.0,0.0,False,False,False,False,False,True,False
+150436361,Кофе Gourmet Costa Rica Tarrazu зерновой 200 г,3200.0,0.0,0.0,Other,Other,200.0,1600.0,16.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+150175320,Кофе rockets.coffee Filter Coffee Kenya Kabare Karani PB зерновой 250 г,7440.0,0.0,0.0,Other,Other,250.0,2976.0,29.76,0.0,0.0,0.0,False,False,False,False,False,True,False
+150436426,Кофе Gourmet India Gems of Araku зерновой 200 г,4000.0,0.0,0.0,Other,Other,200.0,2000.0,20.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+151551871,Кофе Московская кофейня на паяхъ арабика зерновой 250 г,4890.0,0.0,0.0,Other,Other,250.0,1955.9999999999998,19.56,0.0,0.0,0.0,False,False,False,False,False,True,False
+150250051,Кофе Chicco D'oro Indonesia зерновой 250 г,7690.0,0.0,0.0,Other,Other,250.0,3076.0,30.76,0.0,0.0,0.0,False,False,False,False,False,True,False
+150175329,Кофе rockets.coffee Filter Coffee Mwirua Mitondo AA зерновой 250 г,7760.0,0.0,0.0,Other,Other,250.0,3104.0,31.04,0.0,0.0,0.0,False,False,False,False,False,True,False
+150436395,Кофе Gourmet Nicaragua Las Morenitas зерновой 200 г,3400.0,0.0,0.0,Other,Other,200.0,1700.0,17.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+150436344,Кофе Gourmet Rwanda Kinini зерновой 200 г,2800.0,0.0,0.0,Other,Other,200.0,1400.0,14.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+150187021,Кофе rockets.coffee Filter Coffee Ethiopia Gara Agena зерновой 250 г,7500.0,0.0,0.0,Other,Other,250.0,3000.0,30.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+150250058,Кофе Chicco D'oro Honduras зерновой 250 г,7690.0,0.0,0.0,Other,Other,250.0,3076.0,30.76,0.0,0.0,0.0,False,False,False,False,False,True,False
+147986503,Кофе Fresco Arabica Barista зерновой 5 упаковок по 1000 г,47900.0,0.0,0.0,Other,Other,1000.0,4790.0,47.9,0.0,0.0,0.0,False,False,False,False,False,True,False
+142993350,Кофе Movenpick One for all зерновой 1000 г,20948.0,5.0,1.0,Other,Other,1000.0,2094.8,20.948,104740.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+100825174,Кофе Carraro Don Carlos зерновой в пакете 1000 г,15950.0,4.7,23.0,Other,Other,1000.0,1595.0,15.95,74965.0,4700.0,3.1780538303479458,False,False,False,False,False,True,False
+117702184,Кофе растворимый Maxim Mocha Gold сублимированный 100 г,6300.0,4.9,9.0,Other,Other,100.0,6300.0,63.0,30870.000000000004,490.00000000000006,2.302585092994046,False,False,False,False,False,True,False
+106727995,Кофе растворимый Jacobs Monarch порошковый 30 шт по 1.8 г,2904.0,5.0,10.0,Jacobs,Jacobs,8.0,36300.0,363.0,14520.0,40.0,2.3978952727983707,False,True,False,False,False,False,False
+105965893,Кофе Paulig Espresso Barista зерновой в пакете 1000 г,21850.0,5.0,5.0,Other,Other,1000.0,2185.0,21.85,109250.0,5000.0,1.791759469228055,False,False,False,False,False,True,False
+109999883,Кофе Caffe Vergnano Arabica Bio зерновой 1000 г,27989.0,5.0,5.0,Other,Other,1000.0,2798.9,27.989,139945.0,5000.0,1.791759469228055,False,False,False,False,False,True,False
+144022141,Кофе Coffeelogia На каждый день зерновой 4 упаковки по 100 г,6300.0,4.7,0.0,Other,Other,100.0,6300.0,63.0,29610.0,470.0,0.0,False,False,False,False,False,True,False
+132160901,Кофе Grossa Guatemala Todos Santos зерновой 200 г,3750.0,5.0,0.0,Other,Other,200.0,1875.0,18.75,18750.0,1000.0,0.0,False,False,False,False,False,True,False
+108926453,Кофе Coffee Expert Bar Yellow Bourbon зерновой 1000 г,13599.0,5.0,4.0,Other,Other,1000.0,1359.9,13.599,67995.0,5000.0,1.6094379124341003,False,False,False,False,False,True,False
+106167880,Кофе Tasty Coffee Моносорт эспрессо Гватемала Фуэго зерновой в пакете 1000 г,21099.0,5.0,8.0,Other,Other,1000.0,2109.9,21.099,105495.0,5000.0,2.1972245773362196,False,False,False,False,False,True,False
+138110265,Кофе Coffeelogia Индонезия Сулавеси зерновой 250 г,4850.0,0.0,0.0,Other,Other,250.0,1939.9999999999998,19.4,0.0,0.0,0.0,False,False,False,False,False,True,False
+145127654,Кофе растворимый Jacobs Gold сублимированный 130 г,4095.0,5.0,0.0,Jacobs,Jacobs,130.0,3150.0,31.5,20475.0,650.0,0.0,False,True,False,False,False,False,False
+115822434,Кофе Altintelve №4 Horeca Blend Espresso зерновой 1000 г,11000.0,4.8,0.0,Other,Other,1000.0,1100.0,11.0,52800.0,4800.0,0.0,False,False,False,False,False,True,False
+101152144,Кофе растворимый Impresso Delicato гранулированный 100 г,3050.0,5.0,10.0,Other,Other,100.0,3050.0,30.5,15250.0,500.0,2.3978952727983707,False,False,False,False,False,True,False
+129338661,Кофе растворимый NESCAFE Classic порошковый 190 г,5118.0,5.0,2.0,NESCAFE,NESCAFE,190.0,2693.684210526316,26.936842105263157,25590.0,950.0,1.0986122886681098,False,False,False,False,True,False,False
+107545675,Кофе Gima Ambra зерновой в пакете 1000 г,15500.0,5.0,0.0,Other,Other,1000.0,1550.0,15.5,77500.0,5000.0,0.0,False,False,False,False,False,True,False
+103970402,Кофе растворимый Black in Black Pure Arabica сублимированный 85 г,2100.0,4.9,7.0,Other,Other,85.0,2470.5882352941176,24.705882352941178,10290.0,416.50000000000006,2.0794415416798357,False,False,False,False,False,True,False
+123528868,Кофе растворимый Torabika Macchiato порошковый 24 г,180.0,4.8,2.0,Other,Other,24.0,750.0,7.5,864.0,115.19999999999999,1.0986122886681098,False,False,False,False,False,True,False
+109258050,Кофе растворимый Сибирский кедр Cedro Coffee с кокосовым молоком порошковый 120 г,2170.0,3.0,1.0,Other,Other,120.0,1808.3333333333333,18.083333333333332,6510.0,360.0,0.6931471805599453,False,False,False,False,False,True,False
+133283964,Кофе растворимый AGF Zeitaky гранулированный 80 г,10250.0,0.0,0.0,Other,Other,80.0,12812.5,128.125,0.0,0.0,0.0,False,False,False,False,False,True,False
+101783958,Кофе Fresco Arabica Solo зерновой в пакете 1 кг,13150.0,5.0,8.0,Other,Other,500.0,2630.0,26.3,65750.0,2500.0,2.1972245773362196,False,False,False,False,False,True,False
+139739107,Кофе растворимый MOKATE Mix 3 in 1 порошковый 17 г,149.0,4.6,5.0,Other,Other,17.0,876.4705882352941,8.764705882352942,685.4,78.19999999999999,1.791759469228055,False,False,False,False,False,True,False
+102934635,Кофе Guten berg Эспрессо-смесь Эспрессо зерновой в пакете 1 кг,18190.0,5.0,3.0,Other,Other,500.0,3638.0000000000005,36.38,90950.0,2500.0,1.3862943611198906,False,False,False,False,False,True,False
+133191089,Кофе Kimbo Delonghi Espresso Classic зерновой 250 г,4990.0,5.0,3.0,Other,Other,250.0,1996.0,19.96,24950.0,1250.0,1.3862943611198906,False,False,False,False,False,True,False
+143913084,Кофе Gutenberg Дубайский шоколад зерновой 1000 г,17500.0,5.0,2.0,Other,Other,1000.0,1750.0,17.5,87500.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+101152287,Кофе Lavazza Tierra Brazil зерновой в пакете 1000 г,27149.0,4.9,17.0,Lavazza,Lavazza,1000.0,2714.9,27.149,133030.1,4900.0,2.8903717578961645,False,False,True,False,False,False,False
+114015333,Кофе EGOISTE Voyage зерновой 250 г,5799.0,4.9,10.0,Other,Other,250.0,2319.6000000000004,23.196,28415.100000000002,1225.0,2.3978952727983707,False,False,False,False,False,True,False
+102439480,Кофе Melitta Bella Crema Espresso в зернах 1 кг,19990.0,4.9,62.0,Other,Other,500.0,3997.9999999999995,39.98,97951.0,2450.0,4.143134726391533,False,False,False,False,False,True,False
+100207982,Кофе растворимый Жокей Триумф сублимированный 95 г,2600.0,4.6,15.0,Other,Other,95.0,2736.842105263158,27.36842105263158,11959.999999999998,436.99999999999994,2.772588722239781,False,False,False,False,False,True,False
+148409527,Кофе растворимый Московская кофейня на паяхъ Арабика сублимированный 50 г,2190.0,5.0,4.0,Other,Other,50.0,4380.0,43.8,10950.0,250.0,1.6094379124341003,False,False,False,False,False,True,False
+130235020,Кофе растворимый Maximus Gold гранулированный 70 г,2614.0,4.8,3.0,Other,Other,70.0,3734.285714285714,37.34285714285714,12547.199999999999,336.0,1.3862943611198906,False,False,False,False,False,True,False
+131842135,Кофе Helmut Sachers Kaffee Vienna History Edition-W.A.Mozart-Espresso зерновой 250 г,4900.0,4.9,4.0,Other,Other,250.0,1960.0000000000002,19.6,24010.0,1225.0,1.6094379124341003,False,False,False,False,False,True,False
+136994998,Кофе Local coffee Руанда Кизибере Хилл зерновой 200 г,4500.0,5.0,1.0,Other,Other,200.0,2250.0,22.5,22500.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+114113147,Кофе Tasty Coffee Колумбия Уила зерновой 1000 г,22989.0,4.5,1.0,Other,Other,1000.0,2298.9,22.989,103450.5,4500.0,0.6931471805599453,False,False,False,False,False,True,False
+115605107,Кофе Kimbo Espresso Napoletano зерновой 500 г,9350.0,5.0,3.0,Other,Other,500.0,1870.0,18.7,46750.0,2500.0,1.3862943611198906,False,False,False,False,False,True,False
+146871727,Кофе растворимый DES Латте Банановое мороженое порошковый,260.0,5.0,0.0,Other,Other,500.0,52.0,0.52,1300.0,2500.0,0.0,False,False,False,False,False,True,False
+103560883,Кофе Grossa Ornata зерновой арабика 1000 г,12500.0,4.9,8.0,Other,Other,1000.0,1250.0,12.5,61250.00000000001,4900.0,2.1972245773362196,False,False,False,False,False,True,False
+140330429,Кофе ARISTOCRAT 100% Arabica New зерновой 1000 г,16795.0,0.0,0.0,Other,Other,1000.0,1679.5000000000002,16.795,0.0,0.0,0.0,False,False,False,False,False,True,False
+100773499,Кофе Miele Black Edition Espresso зерновой 4 пакета по 250 г,31000.0,0.0,0.0,Other,Other,250.0,12400.0,124.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+141881259,Кофе Alta Roma Blend №2 зерновой 2 упаковки по 1000 г,25740.0,0.0,0.0,Other,Other,1000.0,2574.0,25.74,0.0,0.0,0.0,False,False,False,False,False,True,False
+148080080,Кофе Tasty Coffee Espresso Coffee Фанки зерновой 1000 г,25739.0,0.0,0.0,Other,Other,1000.0,2573.9,25.739,0.0,0.0,0.0,False,False,False,False,False,True,False
+147777863,Кофе AYAT AZIMOV COFFEE Бразилия Декаф зерновой 1000 г,16950.0,0.0,0.0,Other,Other,1000.0,1695.0,16.95,0.0,0.0,0.0,False,False,False,False,False,True,False
+142317260,Кофе DON CUP Espresso Italiano Napoli зерновой 1000 г,16300.0,0.0,0.0,Other,Other,1000.0,1630.0,16.3,0.0,0.0,0.0,False,False,False,False,False,True,False
+134034333,Кофе LEBO Coffee Classic зерновой 1000 г,14800.0,0.0,0.0,Other,Other,1000.0,1480.0,14.8,0.0,0.0,0.0,False,False,False,False,False,True,False
+132204084,Кофе Helmut Sachers Kaffee Turkish зерновой 500 г,8950.0,2.3,3.0,Other,Other,500.0,1789.9999999999998,17.9,20585.0,1150.0,1.3862943611198906,False,False,False,False,False,True,False
+116958730,Кофе TOREO El Salvador Cuzcachapa SHG EP зерновой 200 г,7900.0,5.0,0.0,Other,Other,200.0,3950.0,39.5,39500.0,1000.0,0.0,False,False,False,False,False,True,False
+106862223,La Marca Крем-брюле зерновой в пакете 250 г,8650.0,5.0,1.0,Other,Other,250.0,3460.0,34.6,43250.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+106862222,La Marca Колумбия Эксельсо зерновой в пакете 250 г,8850.0,3.0,1.0,Other,Other,250.0,3540.0,35.4,26550.0,750.0,0.6931471805599453,False,False,False,False,False,True,False
+148917080,Кофе Coffeelogia Коста Рика Луис Карлос зерновой 500 г,12900.0,0.0,0.0,Other,Other,500.0,2580.0,25.8,0.0,0.0,0.0,False,False,False,False,False,True,False
+102171389,Кофе Corsini Colombia Medellin Supremo зерновой в пакете 500 г,20150.0,0.0,0.0,Other,Other,500.0,4029.9999999999995,40.3,0.0,0.0,0.0,False,False,False,False,False,True,False
+102171460,Кофе Corsini Colombia Medellin Supremo зерновой в пакете 250 г,10075.0,0.0,0.0,Other,Other,250.0,4029.9999999999995,40.3,0.0,0.0,0.0,False,False,False,False,False,True,False
+118637981,Кофе Tasty Coffee Фрутти зерновой 1000 г,23449.0,5.0,2.0,Other,Other,1000.0,2344.9,23.449,117245.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+123947542,Кофе Sunrise Coffee Strong зерновой 500 г,8000.0,0.0,0.0,Other,Other,500.0,1600.0,16.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+103560864,Кофе Grossa Lyrata зерновой арабика 1000 г,13200.0,0.0,0.0,Other,Other,1000.0,1320.0,13.2,0.0,0.0,0.0,False,False,False,False,False,True,False
+131464571,Кофе Унция - Гурмэ Танзания АА зерновой 200 г,19595.0,0.0,0.0,Other,Other,200.0,9797.5,97.975,0.0,0.0,0.0,False,False,False,False,False,True,False
+142845209,Кофе Cuppello Черри бренди зерновой 1000 г,16500.0,0.0,0.0,Other,Other,1000.0,1650.0,16.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+105263242,Кофе Gimoka Gran Festa зерновой в пакете 1000 г,16989.0,4.0,1.0,Other,Other,1000.0,1698.9,16.989,67956.0,4000.0,0.6931471805599453,False,False,False,False,False,True,False
+142271982,Кофе Barbera Classica зерновой 1000 г,21800.0,0.0,0.0,Other,Other,1000.0,2180.0,21.8,0.0,0.0,0.0,False,False,False,False,False,True,False
+122800826,Кофе Caffe Ambosiano Cremoso зерновой 1000 г,16500.0,5.0,1.0,Other,Other,1000.0,1650.0,16.5,82500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+140398129,Кофе Gima Perla Nera зерновой 1000 г,18300.0,5.0,1.0,Other,Other,1000.0,1830.0,18.3,91500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+137597189,Кофе Caffe Vero Arabica Extra зерновой 1000 г,19800.0,0.0,0.0,Other,Other,1000.0,1980.0,19.8,0.0,0.0,0.0,False,False,False,False,False,True,False
+141634142,Кофе Segafredo GQ зерновой 1000 г,13000.0,5.0,0.0,Other,Other,1000.0,1300.0,13.0,65000.0,5000.0,0.0,False,False,False,False,False,True,False
+141881281,Кофе Alta Roma Blend №3 зерновой 6 упаковок по 1000 г,101520.0,0.0,0.0,Other,Other,1000.0,10152.0,101.52,0.0,0.0,0.0,False,False,False,False,False,True,False
+109999888,Кофе Caffe Vergnano Granaroma зерновой 500 г,11389.0,5.0,4.0,Other,Other,500.0,2277.7999999999997,22.778,56945.0,2500.0,1.6094379124341003,False,False,False,False,False,True,False
+105026798,Кофе TEMPELMANN Aurelias Caffe Crema зерновой 500 г,11349.0,5.0,0.0,Other,Other,500.0,2269.8,22.698,56745.0,2500.0,0.0,False,False,False,False,False,True,False
+142874962,Кофе Cuppello Эфиопия зерновой 1000 г,17500.0,0.0,0.0,Other,Other,1000.0,1750.0,17.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+142316319,Кофе DON CUP Класик зерновой 1000 г,17200.0,0.0,0.0,Other,Other,1000.0,1720.0,17.2,0.0,0.0,0.0,False,False,False,False,False,True,False
+119272486,Кофе Fresco Uganda зерновой 900 г,10500.0,5.0,1.0,Other,Other,900.0,1166.6666666666665,11.666666666666666,52500.0,4500.0,0.6931471805599453,False,False,False,False,False,True,False
+116508096,Кофе Alta Roma Blend №4 зерновой 1000 г,16849.0,5.0,1.0,Other,Other,1000.0,1684.9,16.849,84245.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+102171563,Кофе Corsini Guatemala H.Highland зерновой в пакете 500 г,20305.0,0.0,0.0,Other,Other,500.0,4061.0,40.61,0.0,0.0,0.0,False,False,False,False,False,True,False
+106862213,La Marca - Гватемала Уеуетенанго зерновой в пакете 250 г,10695.0,5.0,0.0,Other,Other,250.0,4278.0,42.78,53475.0,1250.0,0.0,False,False,False,False,False,True,False
+136927497,Кофе Унция Никарагуа Марагоджайп зерновой 200 г,18995.0,5.0,0.0,Other,Other,200.0,9497.5,94.975,94975.0,1000.0,0.0,False,False,False,False,False,True,False
+102171349,Кофе Corsini Costa Rica Caffe Tirrazu зерновой в пакете 500 г,16275.0,0.0,0.0,Other,Other,500.0,3254.9999999999995,32.55,0.0,0.0,0.0,False,False,False,False,False,True,False
+105239469,Кофе Lofbergs Espresso зерновой 1000 г,22150.0,0.0,0.0,Other,Other,1000.0,2215.0,22.15,0.0,0.0,0.0,False,False,False,False,False,True,False
+142993493,Кофе Московская кофейня на паяхъ Суаре зерновой 1000 г,14700.0,5.0,1.0,Other,Other,1000.0,1470.0,14.7,73500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+136278929,Кофе Greno Kremo Ferrora зерновой 1000 г,15100.0,0.0,0.0,Other,Other,1000.0,1510.0,15.1,0.0,0.0,0.0,False,False,False,False,False,True,False
+112915151,Кофе Julius Meinl Vienna Melange Bristol зерновой 1000 г,32000.0,5.0,8.0,Other,Other,1000.0,3200.0,32.0,160000.0,5000.0,2.1972245773362196,False,False,False,False,False,True,False
+108540752,Кофе Sunday Coffee Crema Колумбия зерновой 1000 г,15900.0,5.0,1.0,Other,Other,1000.0,1590.0,15.9,79500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+123947576,Кофе Sunrise Coffee Strong зерновой 1000 г,14000.0,5.0,2.0,Other,Other,1000.0,1400.0,14.0,70000.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+140174056,Кофе Сова Любовь зерновой 280 г,12000.0,0.0,0.0,Other,Other,280.0,4285.714285714285,42.857142857142854,0.0,0.0,0.0,False,False,False,False,False,True,False
+142949787,Кофе DeMarco Blend 3 зерновой 1000 г,12230.0,0.0,0.0,Other,Other,1000.0,1223.0,12.23,0.0,0.0,0.0,False,False,False,False,False,True,False
+142949759,Кофе DeMarco Rich зерновой 1000 г,12120.0,0.0,0.0,Other,Other,1000.0,1212.0,12.12,0.0,0.0,0.0,False,False,False,False,False,True,False
+106862211,La Marca - Вишня на коньяке зерновой в пакете 250 г,8650.0,5.0,1.0,Other,Other,250.0,3460.0,34.6,43250.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+117089437,Кофе Coffeelogia Конго Киву зерновой 250 г,5150.0,5.0,0.0,Other,Other,250.0,2060.0,20.6,25750.0,1250.0,0.0,False,False,False,False,False,True,False
+102714113,Кофе Jardin Colombia Supremo 1000 г,17600.0,0.0,0.0,Other,Other,1000.0,1760.0000000000002,17.6,0.0,0.0,0.0,False,False,False,False,False,True,False
+140579696,Кофе Gima Caffe Caffe Del Sol Iguazu зерновой 1000 г,15400.0,0.0,0.0,Other,Other,1000.0,1540.0,15.4,0.0,0.0,0.0,False,False,False,False,False,True,False
+140269491,Кофе Rockets coffee Espresso #1 зерновой 250 г,6950.0,5.0,1.0,Other,Other,250.0,2780.0,27.8,34750.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+140269798,Кофе Rockets coffee Espresso #2 зерновой 250 г,7150.0,0.0,0.0,Other,Other,250.0,2860.0,28.6,0.0,0.0,0.0,False,False,False,False,False,True,False
+141273474,Кофе Tango Coffee Roasters RED зерновой 1000 г,13500.0,0.0,0.0,Other,Other,1000.0,1350.0,13.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+141881247,Кофе Alta Roma Blend №1 зерновой 6 упаковок по 1000 г,92880.0,0.0,0.0,Other,Other,1000.0,9288.0,92.88,0.0,0.0,0.0,False,False,False,False,False,True,False
+108650919,Кофе Gimoka Gran Bar зерновой 1000 г,16989.0,3.0,1.0,Other,Other,1000.0,1698.9,16.989,50967.0,3000.0,0.6931471805599453,False,False,False,False,False,True,False
+131842084,Кофе Helmut Sachers Kaffee Exklusive-SuperB зерновой 250 г,5500.0,5.0,2.0,Other,Other,250.0,2200.0,22.0,27500.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+100761178,Кофе Covim Giada в пакете зерновой 1000 г,18500.0,3.7,1.0,Other,Other,1000.0,1850.0,18.5,68450.0,3700.0,0.6931471805599453,False,False,False,False,False,True,False
+136278892,Кофе Greno Brazil зерновой 1000 г,15100.0,5.0,0.0,Other,Other,1000.0,1510.0,15.1,75500.0,5000.0,0.0,False,False,False,False,False,True,False
+117539298,Кофе BAZZARA Panamericana зерновой 1000 г,32000.0,5.0,0.0,Other,Other,1000.0,3200.0,32.0,160000.0,5000.0,0.0,False,False,False,False,False,True,False
+142949752,Кофе DeMarco Grand зерновой 1000 г,12690.0,0.0,0.0,Other,Other,1000.0,1269.0,12.69,0.0,0.0,0.0,False,False,False,False,False,True,False
+142995097,Кофе DeMarco Rosso Bar зерновой 1000 г,14250.0,0.0,0.0,Other,Other,1000.0,1425.0,14.25,0.0,0.0,0.0,False,False,False,False,False,True,False
+147074064,Кофе Coffeelogia Панама SHB Бокете зерновой 500 г,9500.0,5.0,0.0,Other,Other,500.0,1900.0,19.0,47500.0,2500.0,0.0,False,False,False,False,False,True,False
+102911716,Кофе Guten berg Коста Рика Де Тараццу зерновой в пакете 1 кг,20000.0,0.0,0.0,Other,Other,500.0,4000.0,40.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+141214179,Кофе Don Cup Espresso зерновой 1000 г,13700.0,0.0,0.0,Other,Other,1000.0,1370.0,13.7,0.0,0.0,0.0,False,False,False,False,False,True,False
+110146505,Кофе Lavazza Crema Classica зерновой 2 пачки по 1000 г,31816.0,5.0,0.0,Lavazza,Lavazza,1000.0,3181.6,31.816,159080.0,5000.0,0.0,False,False,True,False,False,False,False
+123596024,Кофе Coffeelogia Руанда Кияхинда зерновой 500 г,7900.0,5.0,1.0,Other,Other,500.0,1580.0,15.8,39500.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+106862220,La Marca Горький шоколад зерновой в пакете 250 г,8650.0,5.0,0.0,Other,Other,250.0,3460.0,34.6,43250.0,1250.0,0.0,False,False,False,False,False,True,False
+102171260,Кофе Corsini Brasil Caffe Santos зерновой в пакете 500 г,15500.0,5.0,1.0,Other,Other,500.0,3100.0,31.0,77500.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+139033608,Кофе Musetti Decaffeinato зерновой 1000 г,24000.0,0.0,0.0,Other,Other,1000.0,2400.0,24.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+149097577,Кофе Alta Roma Blend #5 зерновой 1000 г,26500.0,0.0,0.0,Other,Other,1000.0,2650.0,26.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+131307333,Кофе Tasty Coffee Christmas Blend,6919.0,5.0,6.0,Other,Other,500.0,1383.8,13.838,34595.0,2500.0,1.9459101490553132,False,False,False,False,False,True,False
+135858667,Кофе Tasty Coffee Батч-Брю зерновой 1000 г,22539.0,0.0,0.0,Other,Other,1000.0,2253.9,22.539,0.0,0.0,0.0,False,False,False,False,False,True,False
+120778922,Кофе Caffe Moreno Espresso зерновой 1000 г,16790.0,5.0,4.0,Other,Other,1000.0,1679.0,16.79,83950.0,5000.0,1.6094379124341003,False,False,False,False,False,True,False
+147486764,Кофе Stile di Vita esclusivo зерновой 250 г,6760.0,0.0,0.0,Other,Other,250.0,2704.0,27.04,0.0,0.0,0.0,False,False,False,False,False,True,False
+103381663,Кофе Sunrise Coffee Brazil зерновой в пакете 500 г,8500.0,5.0,6.0,Other,Other,500.0,1700.0,17.0,42500.0,2500.0,1.9459101490553132,False,False,False,False,False,True,False
+106835105,Кофе Tasty Coffee Колумбия Богота зерновой в пакете 1000 г,22889.0,5.0,3.0,Other,Other,1000.0,2288.9,22.889,114445.0,5000.0,1.3862943611198906,False,False,False,False,False,True,False
+142317714,Кофе Wild Good Morning Columbia Supremo зерновой 1000 г,18150.0,0.0,0.0,Other,Other,1000.0,1814.9999999999998,18.15,0.0,0.0,0.0,False,False,False,False,False,True,False
+141072180,Кофе Don Cup Сан Мартин Перу зерновой 1000 г,17400.0,0.0,0.0,Other,Other,1000.0,1739.9999999999998,17.4,0.0,0.0,0.0,False,False,False,False,False,True,False
+105026827,Кофе TEMPELMANN Nomos Espresso зерновой 1000 г,19995.0,5.0,3.0,Other,Other,1000.0,1999.5,19.995,99975.0,5000.0,1.3862943611198906,False,False,False,False,False,True,False
+141138078,Кофе PRESIDENT Signature зерновой 250 г,5000.0,0.0,0.0,Other,Other,250.0,2000.0,20.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+135688710,Кофе Bialetti Intenso зерновой 1000 г,21000.0,0.0,0.0,Other,Other,1000.0,2100.0,21.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+108104470,Кофе Унция - Бейлиз зерновой 200 г,17395.0,5.0,5.0,Other,Other,200.0,8697.5,86.975,86975.0,1000.0,1.791759469228055,False,False,False,False,False,True,False
+102171133,Кофе Corsini Sumatra Bio зерновой в пакете 500 г,17360.0,0.0,0.0,Other,Other,500.0,3472.0,34.72,0.0,0.0,0.0,False,False,False,False,False,True,False
+134098680,Кофе Coffeelogia Руанда Мушони зерновой 500 г,11300.0,5.0,0.0,Other,Other,500.0,2260.0,22.6,56500.0,2500.0,0.0,False,False,False,False,False,True,False
+147074040,Кофе Coffeelogia Панама SHB Бокете зерновой 1000 г,16500.0,0.0,0.0,Other,Other,1000.0,1650.0,16.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+118114040,Кофе Alta Roma Blend №3 зерновой 1000 г,18790.0,4.9,11.0,Other,Other,1000.0,1879.0,18.79,92071.0,4900.0,2.4849066497880004,False,False,False,False,False,True,False
+105897377,Кофе Paulig Presidentti Ruby зерновой 400 г,9200.0,4.8,7.0,Other,Other,400.0,2300.0,23.0,44160.0,1920.0,2.0794415416798357,False,False,False,False,False,True,False
+102719626,Кофе Jardin Bravo Brazilia зерновой 1000 г,17750.0,5.0,0.0,Other,Other,1000.0,1775.0,17.75,88750.0,5000.0,0.0,False,False,False,False,False,True,False
+136278946,Кофе Greno Auroro зерновой 1000 г,14300.0,0.0,0.0,Other,Other,1000.0,1430.0,14.3,0.0,0.0,0.0,False,False,False,False,False,True,False
+107545624,Кофе Gima Diamante зерновой в пакете 1000 г,16959.0,0.0,0.0,Other,Other,1000.0,1695.8999999999999,16.959,0.0,0.0,0.0,False,False,False,False,False,True,False
+115873124,Кофе Fresco Guatemala зерновой 900 г,13150.0,5.0,1.0,Other,Other,900.0,1461.111111111111,14.61111111111111,65750.0,4500.0,0.6931471805599453,False,False,False,False,False,True,False
+142317359,Кофе DON CUP Колумбия Супремо зерновой 1000 г,23570.0,0.0,0.0,Other,Other,1000.0,2357.0,23.57,0.0,0.0,0.0,False,False,False,False,False,True,False
+142317753,Кофе Wild Good Morning Kenya зерновой 1000 г,17500.0,0.0,0.0,Other,Other,1000.0,1750.0,17.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+112868772,Кофе L'or Crema Absolute Classic зерновой 500 г,11117.0,4.9,6.0,Other,Other,500.0,2223.4,22.234,54473.3,2450.0,1.9459101490553132,False,False,False,False,False,True,False
+147073737,Кофе Alta Roma Rwanda зерновой 1000 г,22000.0,0.0,0.0,Other,Other,1000.0,2200.0,22.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+119689708,Кофе Alta Roma Blend №1 зерновой 1000 г,17100.0,5.0,1.0,Other,Other,1000.0,1710.0000000000002,17.1,85500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+108650918,Кофе Gimoka Armonioso зерновой 1000 г,19989.0,0.0,0.0,Other,Other,1000.0,1998.9,19.989,0.0,0.0,0.0,False,False,False,False,False,True,False
+139033641,Кофе Musetti Intenso зерновой 1000 г,20400.0,0.0,0.0,Other,Other,1000.0,2039.9999999999998,20.4,0.0,0.0,0.0,False,False,False,False,False,True,False
+112868743,Кофе L'or Espresso Brazil зерновой 500 г,11117.0,5.0,1.0,Other,Other,500.0,2223.4,22.234,55585.0,2500.0,0.6931471805599453,False,False,False,False,False,True,False
+123947595,Кофе Sunrise Coffee Brazil зерновой 250 г,5300.0,5.0,0.0,Other,Other,250.0,2120.0,21.2,26500.0,1250.0,0.0,False,False,False,False,False,True,False
+123947658,Кофе Sunrise Coffee Brazil зерновой 1000 г,15000.0,0.0,0.0,Other,Other,1000.0,1500.0,15.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+124070164,Кофе Sunrise Coffee Columbia зерновой 1000 г,15000.0,0.0,0.0,Other,Other,1000.0,1500.0,15.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+141881174,Кофе Alta Roma Blend №8 зерновой 6 упаковок по 1000 г,71280.0,0.0,0.0,Other,Other,1000.0,7128.0,71.28,0.0,0.0,0.0,False,False,False,False,False,True,False
+103023355,Кофе Sunrise Coffee City blend Dark зерновой в пакете 1000 г,14000.0,4.8,6.0,Other,Other,1000.0,1400.0,14.0,67200.0,4800.0,1.9459101490553132,False,False,False,False,False,True,False
+108650922,Кофе Gimoka Supremo Professional зерновой 1000 г,19889.0,0.0,0.0,Other,Other,1000.0,1988.8999999999999,19.889,0.0,0.0,0.0,False,False,False,False,False,True,False
+109999917,Кофе Caffe Vergnano Aroma Mio Delicato зерновой 1000 г,19189.0,5.0,2.0,Other,Other,1000.0,1918.9,19.189,95945.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+108745431,Кофе Gimoka Vellutato зерновой 1000 г,21989.0,5.0,1.0,Other,Other,1000.0,2198.9,21.989,109945.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+143913512,Кофе Corsini Guatemala Medium roast зерновой 250 г,10585.0,0.0,0.0,Other,Other,250.0,4234.0,42.34,0.0,0.0,0.0,False,False,False,False,False,True,False
+148588720,Кофе TEMPELMANN Terra зерновой 1000 г,19990.0,0.0,0.0,Other,Other,1000.0,1998.9999999999998,19.99,0.0,0.0,0.0,False,False,False,False,False,True,False
+142845280,Кофе Cuppello Эспрессо бленд зерновой 1000 г,16500.0,0.0,0.0,Other,Other,1000.0,1650.0,16.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+134034290,Кофе LEBO Coffee Bright Espresso зерновой 1000 г,16050.0,0.0,0.0,Other,Other,1000.0,1605.0,16.05,0.0,0.0,0.0,False,False,False,False,False,True,False
+106862216,La Marca Пралине ликер зерновой в пакете 250 г,8650.0,5.0,1.0,Other,Other,250.0,3460.0,34.6,43250.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+146058293,Кофе Corsini Costa Rica зерновой 250 г,8215.0,0.0,0.0,Other,Other,250.0,3286.0,32.86,0.0,0.0,0.0,False,False,False,False,False,True,False
+128120498,Кофе Coffeelogia Сальвадор зерновой 250 г,6950.0,5.0,2.0,Other,Other,250.0,2780.0,27.8,34750.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+101177437,Кофе Covim Granbar в пакете зерновой 500 г,7095.0,4.9,4.0,Other,Other,500.0,1419.0,14.19,34765.5,2450.0,1.6094379124341003,False,False,False,False,False,True,False
+115821574,Кофе Altintelve Espresso Speci̇al Blend зерновой 1000 г,13000.0,1.0,1.0,Other,Other,1000.0,1300.0,13.0,13000.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+132224520,Кофе Helmut Sachers Kaffee Melange зерновой 1000 г,18300.0,5.0,1.0,Other,Other,1000.0,1830.0,18.3,91500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+108733541,Кофе Gimoka Espresso зерновой 1000 г,19989.0,5.0,1.0,Other,Other,1000.0,1998.9,19.989,99945.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+105263240,Кофе Gimoka Aroma Classico зерновой в пакете 1000 г,16989.0,0.0,0.0,Other,Other,1000.0,1698.9,16.989,0.0,0.0,0.0,False,False,False,False,False,True,False
+142316238,Кофе DON CUP царь зерновой 1000 г,17950.0,0.0,0.0,Other,Other,1000.0,1795.0,17.95,0.0,0.0,0.0,False,False,False,False,False,True,False
+142993964,Кофе DeMarco Premium зерновой 1000 г,13860.0,5.0,1.0,Other,Other,1000.0,1386.0,13.86,69300.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+142831349,Кофе DeMarco Fresh Roasted Beans зерновой 1000 г,14680.0,5.0,0.0,Other,Other,1000.0,1468.0,14.68,73400.0,5000.0,0.0,False,False,False,False,False,True,False
+109788485,Кофе Compass Italy blend зерновой 1000 г,9999.0,4.9,260.0,Other,Other,1000.0,999.9000000000001,9.999,48995.100000000006,4900.0,5.564520407322694,False,False,False,False,False,True,False
+109734588,Кофе Compass American Map зерновой 1000 г,9900.0,4.9,221.0,Other,Other,1000.0,990.0,9.9,48510.0,4900.0,5.402677381872279,False,False,False,False,False,True,False
+102242559,Кофе растворимый NESCAFE Gold порошковый 75 г,3040.0,4.9,10.0,NESCAFE,NESCAFE,75.0,4053.333333333333,40.53333333333333,14896.000000000002,367.5,2.3978952727983707,False,False,False,False,True,False,False
+100208025,Кофе растворимый NESCAFE Classic сублимированный 95 г,2400.0,4.6,11.0,NESCAFE,NESCAFE,95.0,2526.315789473684,25.263157894736842,11040.0,436.99999999999994,2.4849066497880004,False,False,False,False,True,False,False
+113242066,Кофе Compass Cream Brazil зерновой 1000 г,10700.0,4.9,378.0,Other,Other,1000.0,1070.0,10.7,52430.00000000001,4900.0,5.937536205082426,False,False,False,False,False,True,False
+117382525,Кофе Compass Caribbean Blend зерновой 1000 г,10800.0,4.9,422.0,Other,Other,1000.0,1080.0,10.8,52920.00000000001,4900.0,6.0473721790462776,False,False,False,False,False,True,False
+100239091,Кофе Jardin Americano Crema зерновой в пакете 250 г,3861.0,4.7,19.0,Other,Other,250.0,1544.4,15.444,18146.7,1175.0,2.995732273553991,False,False,False,False,False,True,False
+100208033,Кофе растворимый NESCAFE Classic сублимированный 60 г,1812.0,4.8,14.0,NESCAFE,NESCAFE,60.0,3020.0,30.2,8697.6,288.0,2.70805020110221,False,False,False,False,True,False,False
+100826170,Кофе Lavazza Qualita Oro зерновой 1000 г,15562.0,4.8,328.0,Lavazza,Lavazza,1000.0,1556.2,15.562,74697.59999999999,4800.0,5.796057750765372,False,False,True,False,False,False,False
+100238385,Кофе растворимый Jacobs Caramel 3 в 1 порошковый 15 г,119.0,4.9,11.0,Jacobs,Jacobs,15.0,793.3333333333334,7.933333333333334,583.1,73.5,2.4849066497880004,False,True,False,False,False,False,False
+100219166,Кофе Carte Noire Original зерновой в пакете 230 г,4221.0,5.0,30.0,Carte,Carte,230.0,1835.217391304348,18.35217391304348,21105.0,1150.0,3.4339872044851463,True,False,False,False,False,False,False
+103541753,Кофе Grossa Brazil Mogiana зерновой в пакете 1000 г,10800.0,4.9,423.0,Other,Other,1000.0,1080.0,10.8,52920.00000000001,4900.0,6.049733455231958,False,False,False,False,False,True,False
+117016270,Кофе Pelican Rouge Lance зерновой 1000 г,13200.0,5.0,1.0,Other,Other,1000.0,1320.0,13.2,66000.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+103381659,Кофе Sunrise Coffee Brazil зерновой в пакете 250 г,5300.0,5.0,2.0,Other,Other,250.0,2120.0,21.2,26500.0,1250.0,1.0986122886681098,False,False,False,False,False,True,False
+108701396,Кофе Sunrise Coffee Tanzania Burka Estate AB зерновой 1000 г,15000.0,5.0,1.0,Other,Other,1000.0,1500.0,15.0,75000.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+117539224,Кофе BAZZARA Panafricana зерновой 1000 г,32000.0,0.0,0.0,Other,Other,1000.0,3200.0,32.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+107970956,Кофе Sunday Coffee Crema Кения зерновой в пакете 250 г,7250.0,2.5,2.0,Other,Other,250.0,2900.0,29.0,18125.0,625.0,1.0986122886681098,False,False,False,False,False,True,False
+132414842,Кофе Der Franz Colombia зерновой 1000 г,15800.0,3.0,1.0,Other,Other,1000.0,1580.0,15.8,47400.0,3000.0,0.6931471805599453,False,False,False,False,False,True,False
+141072280,Кофе Don Cup Бразилия Суль-де-минас Император зерновой 1000 г,22200.0,0.0,0.0,Other,Other,1000.0,2220.0,22.2,0.0,0.0,0.0,False,False,False,False,False,True,False
+142317313,Кофе DON CUP Espresso Интенсив зерновой 1000 г,21790.0,0.0,0.0,Other,Other,1000.0,2179.0,21.79,0.0,0.0,0.0,False,False,False,False,False,True,False
+140233944,Кофе Сова Доброта зерновой 280 г,12000.0,0.0,0.0,Other,Other,280.0,4285.714285714285,42.857142857142854,0.0,0.0,0.0,False,False,False,False,False,True,False
+116958856,Кофе TOREO Kenya Kahawa Bora AA зерновой 200 г,7900.0,5.0,1.0,Other,Other,200.0,3950.0,39.5,39500.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+102171599,Кофе Corsini Guatemala H.Highland зерновой в пакете 250 г,10385.0,0.0,0.0,Other,Other,250.0,4154.0,41.54,0.0,0.0,0.0,False,False,False,False,False,True,False
+108733473,Кофе Gimoka Intenso Professional зерновой 1000 г,17689.0,0.0,0.0,Other,Other,1000.0,1768.9,17.689,0.0,0.0,0.0,False,False,False,False,False,True,False
+106092509,Кофе Alberto Caffe Crema зерновой в пакете 1000 г,17600.0,5.0,2.0,Other,Other,1000.0,1760.0000000000002,17.6,88000.0,5000.0,1.0986122886681098,False,False,False,False,False,True,False
+102911706,Кофе Guten berg Бразилия Сул Де Минас зерновой в пакете 1 кг,21900.0,0.0,0.0,Other,Other,500.0,4380.0,43.8,0.0,0.0,0.0,False,False,False,False,False,True,False
+121849029,Кофе Cafes Callis Classic зерновой 1000 г,16060.0,4.7,4.0,Other,Other,1000.0,1605.9999999999998,16.06,75482.0,4700.0,1.6094379124341003,False,False,False,False,False,True,False
+100761139,Кофе Covim Rubino в пакете зерновой 1000 г,19600.0,5.0,3.0,Other,Other,1000.0,1960.0000000000002,19.6,98000.0,5000.0,1.3862943611198906,False,False,False,False,False,True,False
+142845439,Кофе Cuppello Бразилия зерновой 1000 г,17200.0,0.0,0.0,Other,Other,1000.0,1720.0,17.2,0.0,0.0,0.0,False,False,False,False,False,True,False
+134175346,Кофе Sunday Coffee Costa Rica зерновой 250 г,7500.0,4.0,1.0,Other,Other,250.0,3000.0,30.0,30000.0,1000.0,0.6931471805599453,False,False,False,False,False,True,False
+142316607,Кофе DON CUP Бразилия Моджиана зерновой 1000 г,22650.0,0.0,0.0,Other,Other,1000.0,2265.0,22.65,0.0,0.0,0.0,False,False,False,False,False,True,False
+134099431,Кофе Coffeelogia Бурунди Кибинго Хани зерновой 500 г,11450.0,0.0,0.0,Other,Other,500.0,2290.0,22.9,0.0,0.0,0.0,False,False,False,False,False,True,False
+135688739,Кофе Bialetti Classico зерновой 1000 г,20950.0,5.0,1.0,Other,Other,1000.0,2095.0,20.95,104750.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+139032136,Кофе Musetti Armonico зерновой 1000 г,22500.0,0.0,0.0,Other,Other,1000.0,2250.0,22.5,0.0,0.0,0.0,False,False,False,False,False,True,False
+132414861,Кофе Pelican Rouge Rythme зерновой 1000 г,13500.0,5.0,1.0,Other,Other,1000.0,1350.0,13.5,67500.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+137597093,Кофе Caffe Vero Espresso Classico зерновой 1000 г,15400.0,0.0,0.0,Other,Other,1000.0,1540.0,15.4,0.0,0.0,0.0,False,False,False,False,False,True,False
+112421321,Кофе Tasty Coffee Эфиопия Оромия зерновой 250 г,20759.0,0.0,0.0,Other,Other,250.0,8303.6,83.036,0.0,0.0,0.0,False,False,False,False,False,True,False
+147073855,Кофе Alta Roma Papua New Guinea зерновой 1000 г,18100.0,0.0,0.0,Other,Other,1000.0,1810.0000000000002,18.1,0.0,0.0,0.0,False,False,False,False,False,True,False
+107970963,Кофе Sunday Coffee Special зерновой 500 г,12200.0,0.0,0.0,Other,Other,500.0,2440.0,24.4,0.0,0.0,0.0,False,False,False,False,False,True,False
+148864836,Кофе Monkey Forest Aotus зерновой 250 г,8400.0,0.0,0.0,Other,Other,250.0,3360.0,33.6,0.0,0.0,0.0,False,False,False,False,False,True,False
+141072312,Кофе Don Cup Арабика Суль Де Минас зерновой 1000 г,18000.0,0.0,0.0,Other,Other,1000.0,1800.0,18.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+105026795,Кофе TEMPELMANN Aurelias зерновой 500 г,11349.0,5.0,3.0,Other,Other,500.0,2269.8,22.698,56745.0,2500.0,1.3862943611198906,False,False,False,False,False,True,False
+123595999,Кофе Coffeelogia Руанда Кияхинда зерновой 1000 г,13750.0,5.0,0.0,Other,Other,1000.0,1375.0,13.75,68750.0,5000.0,0.0,False,False,False,False,False,True,False
+105239471,Кофе Lofbergs Medium Roast зерновой 1000 г,22150.0,5.0,3.0,Other,Other,1000.0,2215.0,22.15,110750.0,5000.0,1.3862943611198906,False,False,False,False,False,True,False
+100761152,Кофе Covim Prestige в пакете зерновой 1000 г,15400.0,5.0,1.0,Other,Other,1000.0,1540.0,15.4,77000.0,5000.0,0.6931471805599453,False,False,False,False,False,True,False
+147074202,Кофе Coffeelogia Китай Гулаиванг Натурал зерновой 500 г,8700.0,4.0,0.0,Other,Other,500.0,1739.9999999999998,17.4,34800.0,2000.0,0.0,False,False,False,False,False,True,False
+142271992,Кофе Barbera Mago зерновой 1000 г,25550.0,0.0,0.0,Other,Other,1000.0,2555.0,25.55,0.0,0.0,0.0,False,False,False,False,False,True,False
+105337210,Кофе Guten berg Верона зерновой в пакете 1000 г,15000.0,0.0,0.0,Other,Other,1000.0,1500.0,15.0,0.0,0.0,0.0,False,False,False,False,False,True,False
+135688814,Кофе Tasty Coffee Эфиопия Гуджи зерновой 1000 г,25739.0,5.0,0.0,Other,Other,1000.0,2573.9,25.739,128695.0,5000.0,0.0,False,False,False,False,False,True,False
+103381666,Кофе Sunrise Coffee City Blend Dark зерновой в пакете 250 г,4999.0,5.0,1.0,Other,Other,250.0,1999.6,19.996,24995.0,1250.0,0.6931471805599453,False,False,False,False,False,True,False
+103381660,Кофе Sunrise Coffee City blend Dark зерновой арабика робуста 500 г,8000.0,4.8,5.0,Other,Other,500.0,1600.0,16.0,38400.0,2400.0,1.791759469228055,False,False,False,False,False,True,False
+147521900,Кофе Melitta Selection des jahres зерновой 1000 г,19990.0,0.0,0.0,Other,Other,1000.0,1998.9999999999998,19.99,0.0,0.0,0.0,False,False,False,False,False,True,False
+134034434,Кофе LEBO Coffee Strong Espresso зерновой 1000 г,15740.0,0.0,0.0,Other,Other,1000.0,1574.0,15.74,0.0,0.0,0.0,False,False,False,False,False,True,False
+102171513,Кофе Corsini El Salvador SHG зерновой в пакете 500 г,13950.0,5.0,0.0,Other,Other,500.0,2790.0,27.9,69750.0,2500.0,0.0,False,False,False,False,False,True,False
+138110263,Кофе Coffeelogia Индонезия Сулавеси зерновой 1000 г,14850.0,5.0,0.0,Other,Other,1000.0,1485.0,14.85,74250.0,5000.0,0.0,False,False,False,False,False,True,False
+138110175,Кофе Coffeelogia Индонезия Суматра зерновой 1000 г,18110.0,0.0,0.0,Other,Other,1000.0,1811.0,18.11,0.0,0.0,0.0,False,False,False,False,False,True,False
+141071698,Кофе Delonghi Espresso Coffee Blend зерновой 1000 г,14990.0,4.9,280.0,Other,Other,1000.0,1499.0,14.99,73451.0,4900.0,5.638354669333745,False,False,False,False,False,True,False
+106666946,Кофе растворимый Jardin Gold сублимированный 190 г,5701.0,4.8,15.0,Other,Other,190.0,3000.5263157894738,30.00526315789474,27364.8,912.0,2.772588722239781,False,False,False,False,False,True,False
+102363100,Кофе Lavazza Pronto Crema в пакете зерновой 1000 г,10300.0,4.9,209.0,Lavazza,Lavazza,1000.0,1030.0,10.3,50470.00000000001,4900.0,5.3471075307174685,False,False,True,False,False,False,False
+109734583,Кофе Compass Brazil Santos зерновой 250 г,3150.0,4.9,315.0,Other,Other,250.0,1260.0,12.6,15435.000000000002,1225.0,5.755742213586912,False,False,False,False,False,True,False
+101124427,Кофе растворимый Jacobs Monarch сублимированный 190 г,6100.0,5.0,28.0,Jacobs,Jacobs,190.0,3210.526315789474,32.10526315789474,30500.0,950.0,3.367295829986474,False,True,False,False,False,False,False
+103054812,Кофе растворимый NESCAFE Classic crema сублимированный 120 г,3475.0,5.0,12.0,NESCAFE,NESCAFE,120.0,2895.833333333333,28.958333333333332,17375.0,600.0,2.5649493574615367,False,False,False,False,True,False,False
+102719824,Кофе Jardin Crema зерновой 1000 г,14595.0,4.8,31.0,Other,Other,1000.0,1459.5,14.595,70056.0,4800.0,3.4657359027997265,False,False,False,False,False,True,False
+100219165,Кофе Carte Noire Original зерновой в пакете 800 г,12939.0,5.0,45.0,Carte,Carte,800.0,1617.3749999999998,16.17375,64695.0,4000.0,3.828641396489095,True,False,False,False,False,False,False
+100820280,Кофе Master Coffee Milano Espresso зерновой в пакете 1000 г,12990.0,4.9,315.0,Other,Other,1000.0,1299.0,12.99,63651.00000000001,4900.0,5.755742213586912,False,False,False,False,False,True,False
+117513263,Кофе TOREO Vending Special зерновой 1000 г,9765.0,4.9,246.0,Other,Other,1000.0,976.5,9.765,47848.5,4900.0,5.5093883366279774,False,False,False,False,False,True,False
+100938506,Кофе Espresso Italiano Arabica зерновой 200 г,2499.0,4.9,194.0,Other,Other,200.0,1249.5,12.495,12245.1,980.0000000000001,5.272999558563747,False,False,False,False,False,True,False
+100240445,Кофе растворимый Jacobs Caramel Latte порошковый 17 г,210.0,4.9,13.0,Jacobs,Jacobs,17.0,1235.2941176470588,12.352941176470589,1029.0,83.30000000000001,2.6390573296152584,False,True,False,False,False,False,False
